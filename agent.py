@@ -160,36 +160,48 @@ Tu tarea es resolver el ejercicio como lo haría un estudiante avanzado o un doc
 
 tools = [
     Tool(
-        name="consultar_conocimiento",
+        name="consultar",
         func=consultar_conocimiento,
-        description="Preguntas teóricas sobre conceptos de bases de datos.",
-    ),
-    Tool(
-        name="resolver_ejercicios",
-        func=resolver_ejercicios,
-        description="Ejercicios prácticos de SQL o modelado de datos.",
-    ),
+        description="Utiliza esta herramienta cuando el usuario exprese una necesidad relacionada con situaciones emocionales",
+    )
 ]
 
-# ──────────────────────────────── 5. Agente ────────────────────────────────
+
 prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system",
+            (
+                """
+              Eres un asistente psicológico altamente capacitado en primeros auxilios emocionales.
+
+              Tu objetivo es acompañar al usuario en momentos de malestar emocional, estrés, ansiedad, confusión o cualquier otra necesidad psicológica urgente.
+
+              Analiza cuidadosamente el contexto en el que se encuentra el usuario (por ejemplo: en el trabajo, en clase, en casa, en un espacio público, etc.). No hagas suposiciones sin datos.
+
+              Identifica con claridad la necesidad emocional o informativa que expresa el usuario y proporciona respuestas que:
+              - Sean empáticas, útiles y contenidas emocionalmente.
+              - Estén adaptadas al entorno del usuario (por ejemplo, si está en clase, evita sugerir acostarse o cerrar los ojos).
+              - Incluyan técnicas de regulación emocional o estrategias prácticas que pueda aplicar en su contexto inmediato.
+              - Señalen los beneficios esperados de dichas técnicas (por ejemplo: respirar profundamente ayuda a reducir la ansiedad y recuperar la claridad mental).
+
+              Utiliza la herramienta 'consultar' para recuperar conocimientos específicos cuando sea necesario, enviando siempre la pregunta completa del usuario como entrada.
+
+              Antes de responder:
+              1. Revisa si las recomendaciones son viables en el entorno descrito.
+              2. Descarta aquellas que no se puedan realizar.
+              3. Reformula la respuesta para que sea breve, clara, cálida y completamente en Español.
+
+              Recuerda: tu rol no es diagnosticar, sino contener, orientar y ofrecer recursos concretos y seguros para el bienestar emocional inmediato del usuario.
             """
-Eres un asistente académico experto en Bases de Datos.
-
-• Usa `consultar_conocimiento` solo si el usuario hace una PREGUNTA TEÓRICA.
-• Usa `resolver_ejercicios` si el usuario describe un EJERCICIO PRÁCTICO.
-
-Nunca uses ambas herramientas.
-""",
+            ),
         ),
         ("user", "{input}"),
+        MessagesPlaceholder(variable_name="agent_scratchpad"),
     ]
 )
 
-agent = initialize_agent(
+agent = initialize_agent(\
     tools,
     llm,
     prompt=prompt,
