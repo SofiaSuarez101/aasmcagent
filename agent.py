@@ -19,8 +19,6 @@ from langchain_groq import ChatGroq
 from langchain_nomic.embeddings import NomicEmbeddings
 from pydantic import BaseModel
 from starlette.middleware.base import BaseHTTPMiddleware
-from langchain.embeddings import SentenceTransformerEmbeddings
-from langchain.embeddings import HuggingFaceEmbeddings
 
 # ────────────────────────── 1. ENV y CREDENCIALES ──────────────────────────
 load_dotenv()
@@ -34,9 +32,7 @@ llm = ChatGroq(
     temperature=0,
     model_name="meta-llama/llama-4-scout-17b-16e-instruct",
 )
-embeddings = SentenceTransformerEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2",
-)
+embeddings = NomicEmbeddings(model="nomic-embed-text-v1.5")
 
 # ───────────────────── 3. PDFs → VectorStore (Chroma) ──────────────────────
 import fitz  # PyMuPDF
@@ -132,19 +128,20 @@ Has recibido una respuesta basada en el conocimiento clínico de una base de dat
 
 tools = [
     Tool(
-        name="consultar_conocimiento",
+        name="consultar",
         func=consultar_conocimiento,
-        description="Preguntas teóricas sobre conceptos de bases de datos.",
-    ),
+        description="Utiliza esta herramienta cuando el usuario exprese una necesidad relacionada con situaciones emocionales",
+    )
 ]
 
-# ──────────────────────────────── 5. Agente ────────────────────────────────
+
 prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            """
- Eres un asistente psicológico altamente capacitado en primeros auxilios emocionales.
+            (
+                """
+              Eres un asistente psicológico altamente capacitado en primeros auxilios emocionales.
 
               Tu objetivo es acompañar al usuario en momentos de malestar emocional, estrés, ansiedad, confusión o cualquier otra necesidad psicológica urgente.
 
@@ -164,10 +161,11 @@ prompt = ChatPromptTemplate.from_messages(
               3. Reformula la respuesta para que sea breve, clara, cálida y completamente en Español.
 
               Recuerda: tu rol no es diagnosticar, sino contener, orientar y ofrecer recursos concretos y seguros para el bienestar emocional inmediato del usuario.
-
-""",
+            """
+            ),
         ),
         ("user", "{input}"),
+        MessagesPlaceholder(variable_name="agent_scratchpad"),
     ]
 )
 
@@ -237,7 +235,7 @@ app_fastapi.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://aasmc.vercel.app/",
+        "https://aasmc.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
