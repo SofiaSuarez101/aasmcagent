@@ -1,0 +1,473 @@
+[/d]La Desensibilización sistemática y técnicas de relajación[/d]
+
+[/d]Palabras clave[/d]
+[/n]• Desensibilización Sistemática  
+• Inhibición recíproca  
+• Relajación  
+• Respuesta incompatible  
+• Jerarquía de ansiedad  
+• Relajación Progresiva  
+• Relajación Autógena  
+• Respiración[/n]
+
+[/d]Objetivos[/d]
+[/n]Este capítulo ha sido escrito con el objetivo de que el lector o lectora:  
+• Conozca y comprenda los fundamentos de la Desensibilización Sistemática  
+• Conozca el procedimiento básico de la aplicación de la DS y sus variantes principales, así como la aplicabilidad de estas variantes  
+• Conozca las principales técnicas de relajación utilizadas en el ámbito de la Terapia Cognitivo Conductual  
+• Maneje los criterios de la aplicación preferencial de los distintos tipos de entrenamiento en relajación[/n]
+
+[/d]1. Desensibilización Sistemática: introducción[/d]
+[/n]Las técnicas de exposición utilizadas más recientemente para el abordaje de los trastornos de ansiedad, y que han sido revisadas en el capítulo anterior, proceden en gran medida del procedimiento desarrollado por Joseph Wolpe (1958 y 1969) denominado **Desensibilización Sistemática** (DS), y que constituyó la primera técnica de exposición en Terapia de Conducta. La DS es uno de los desarrollos tecnológicos que se dieron durante el surgimiento de la Terapia de Conducta, es decir, durante la primera generación de la Terapia de Conducta y de los que cuentan con mayor tradición en este ámbito, pudiendo considerarse una técnica emblemática en la Terapia Cognitivo Conductual, dado que sigue teniendo total cabida en el panorama actual.
+
+[/d]1. Desensibilización Sistemática: introducción[/d]
+[/n]Los estudios de Wolpe (1958) con neurosis experimentales inducidas en gatos, tomando en consideración los resultados de Watson y Rayner (1920) aplicando los principios del **condicionamiento clásico** a la eliminación de fobias, llevaron a Wolpe a diseñar un procedimiento de tratamiento de las fobias adaptado a los seres humanos: la Desensibilización Sistemática. La técnica está dirigida a reducir la ansiedad y las conductas de evitación suscitadas ante determinados estímulos, y consiste esencialmente en inducir en el sujeto una respuesta de relajación mientras se le expone en imaginación a una jerarquía de estímulos que incrementarían gradualmente su intensidad. Al mantener una situación ansiógena inhibida sin llegar a la producción de respuestas de ansiedad.
+
+
+[/d]1. Desensibilización Sistemática: introducción[/d]
+[/n]Este procedimiento se ha mantenido sin variaciones significativas hasta la actualidad, no obstante, la investigación de procesos ha cuestionado algunos de los que eran considerados principios básicos de la eficacia de la DS (e.g. la necesidad de producir un estado de relajación), así como la forma estándar de proceder en la aplicación de la técnica (e.g. el uso de imágenes y la utilización de una secuencia de intensidad ansiógena gradual). Independientemente del mecanismo (o mecanismos) implicados en su eficacia, lo que sí se ha puesto de manifiesto de forma convincente en la larga historia de investigación en torno a esta técnica es la utilidad del procedimiento aplicado ante una gran variedad de contextos, problemas y trastornos de carácter fóbico.[/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]La DS tal y como fue propuesta y desarrollada por Wolpe está basada en los principios del condicionamiento clásico, de tal forma que la intensidad de una respuesta condicionada (RC) (la ansiedad) podía ser reducida estableciendo una respuesta incompatible con la ansiedad frente al estímulo condicionado (EC) (e.g. una serpiente), es decir, la presentación de un estímulo ansiógeno (EC) cuando no puede producirse la respuesta de ansiedad (RC) facilitaría la ruptura de la asociación estímulo-ansiedad. Esta forma de revertir el **condicionamiento clásico** fue denominada **contra-condicionamiento** por **inhibición recíproca**. [/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]El concepto de *inhibición recíproca* procede del concepto fisiológico de Sherrington (1961) que establecía que no pueden darse simultáneamente dos estados fisiológicos incompatibles (e.g. relajación y ansiedad).
+La idea básica de la Desensibilización Sistemática es que la respuesta de ansiedad puede ser reducida o inhibida mediante la generación de una respuesta incompatible con la ansiedad (**inhibición recíproca**) tradicionalmente la respuesta de relajación. La relajación debe mantenerse a medida que se van presentando gradualmente en imaginación estímulos de intensidad ansiógena creciente, y de esta se va produciendo el debilitamiento de la conexión entre el estímulo y la respuesta de ansiedad que provoca (**contra-condicionamiento**).[/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]Las asunciones teóricas de Wolpe sobre el papel de los sistemas nerviosos simpático y parasimpático en la eliminación de la ansiedad han mostrado ser erróneas. Se ha argumentado que la relajación no funciona realmente como un mecanismo inhibitorio, o respuesta incompatible con la ansiedad, sino que simplemente permite que el paciente se mantenga en contacto con el estímulo temido un tiempo lo suficientemente largo como para que tenga lugar la extinción del miedo (McGlynn, 2005). Desde esta perspectiva la Desensibilización Sistemática sería una forma de exposición gradual y prolongada, con prevención de la respuesta de escape. Pero ¿es necesaria la relajación? La evidencia empírica ha mostrado hasta este momento que la relajación no es un elemento esencial para conseguir la reducción del miedo en la Desensibilización Sistemática (Tkach y Petrowski, 2007), sino que sería sólo un elemento que facilita la permanencia del individuo en contacto con el estímulo temido, el verdadero master que produce la terapia de exposición. Sin embargo, a pesar de la preocupación entre los clínicos acerca de la posibilidad de abandono del tratamiento debido al malestar (Richard y Gloster, 2007), lo cierto es que no está claro que el índice de abandono en la terapia de exposición sea mayor que en la DS con relajación.[/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]La utilización de otras respuestas incompatibles con la ansiedad como la hipnosis han dado excelentes resultados (Bourgeois, 1982) permitiendo acotar sustancialmente el procedimiento y poniendo nuevamente en tela de juicio la necesidad de la respuesta incompatible fisiológicamente. En este caso es probable que el cambio emocional y cognitivo producido por la visualización repetida del estímulo temido y el papel propiciador de las sugestiones post-hipnóticas que promueven el mantenimiento de la atención sobre el foco del tratamiento, expliquen mejor el cambio terapéutico en la Desensibilización Sistemática que los procesos de contra-condicionamiento e inhibición recíproca propuestos inicialmente.[/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]Aunque la Desensibilización Sistemática difiere procedimentalmente de otras técnicas o tratamientos de exposición, es probable que la eficacia de la Desensibilización Sistemática proceda de los mismos mecanismos que contribuyen a la eficacia en otras modalidades de exposición, básicamente el proceso de extinción. (McGlynn, 2005; Taylor, 2002). De hecho, modelos explicativos de la eficacia de la Desensibilización Sistemática propuestos con posterioridad al modelo inicial (Davidson y Wilson, 1973; Foa y Kozak, 1986; Kenyen, 1971) coinciden, aún apelando a distintos mecanismos, en que la exposición repetida al estímulo temido es la variable que permite la extinción del miedo y la generación de un nuevo aprendizaje, bien por procesamiento emocional (Foa y Kozak, 1986), por la implicación de distintas variables cognitivas (e.g. cambios de expectativas, cambios en la auto-eficacia, generación de nuevas creencias, etc.) o por la ayuda de elementos operantes (Davidson y Wilson, 1973). La presencia de una respuesta incompatible, el que la presentación de estímulos sea gradual, o incluso que los estímulos se presenten en imaginación, parecen elementos relevantes en cuanto que la permanencia dilatada en contacto con el estímulo temido.[/n]
+
+[/d]2. Fundamentos teóricos[/d]
+[/n]En resumen, a pesar de que originalmente la Desensibilización Sistemática fuese explicada en el contexto de los principios del condicionamiento clásico, lo cierto es que los mecanismos de cambio que implican son bastante más complejos y coinciden con los hallados para el resto de los tratamientos de exposición que sí se explican desde esta perspectiva.[/n]
+
+[/d]3. Condiciones de aplicación de la Desensibilización Sistemática[/d]
+[/n]La Desensibilización Sistemática está especialmente dirigida al tratamiento de los miedos fóbicos, en aquellos casos en los que existe un estímulo condicionado de ansiedad, por esta razón se ha mostrado tan eficaz en el abordaje de las fobias específicas y aquellos problemas de ansiedad que se refieren a situaciones muy concretas, por ejemplo, el tratamiento del miedo a procedimientos dolorosos en niños (Ward, Brinkman, Slifer y Paranjape, 2010).[/n]
+
+[/d]3. Condiciones de aplicación de la Desensibilización Sistemática[/d]
+[/n]La elección de la Desensibilización Sistemática como técnica de tratamiento deberá tener en cuenta las siguientes consideraciones:
+La Desensibilización Sistemática es más eficaz en problemas fóbicos que en problemas de ansiedad generalizada, fobia social, agorafobia o trastorno obsesivo-compulsivo. En estos casos, la excesiva cantidad de miedos o preocupaciones, la falta de predictibilidad de la situación, la ausencia de recursos o habilidades personales, o la variabilidad del estímulo temido, hacen que este procedimiento no sea una opción adecuada.[/n]
+
+[/d]3. Condiciones de aplicación de la Desensibilización Sistemática[/d]
+[/n]Los resultados de la Desensibilización Sistemática serán más exitosos cuando el problema al que se aplique no se deba a un déficit de habilidades que esté siendo la causa del problema de ansiedad. Por ejemplo, no tendría mucho sentido poner en marcha una Desensibilización Sistemática para abordar la ansiedad ante los exámenes en el caso de un alumno que no ha estudiado lo suficiente. De hecho, en este caso concreto la ansiedad experimentada ante los exámenes tendría un claro sentido adaptativo, pues le indicaría al alumno que las demandas exceden claramente sus recursos, y que debe ponerse a estudiar cuanto antes, pues muy probablemente si tiene los conocimientos consolidados su ansiedad se mitigue considerablemente. De forma inversa, si el alumno conoce bien la materia pero el nivel de ansiedad experimentado es tan intenso que le lleva a una mala ejecución o a la evitación de la situación de examen, sí tendría indicada la puesta en marcha de una Desensibilización Sistemática que desensibilizara al alumno a la situación de evaluación.[/n]
+
+[/d]3. Condiciones de aplicación de la Desensibilización Sistemática[/d]
+[/n]Los problemas fóbicos a los que se aplica la Desensibilización Sistemática no están siempre basados en las creencias del paciente, es decir, el individuo sabe que su ansiedad es irracional y tiene información ajustada sobre la situación a la que se expone. Por ejemplo, la DS sería adecuada en el caso de un joven con fobia a los perros que sabe que la probabilidad de ser atacado por un perro es muy baja si el animal no muestra un claro herraje de gravedad. Si esa misma joven crease que los perros atacan de forma agresiva e impredecible, sería necesario realizar de forma previa un trabajo de reestructuración cognitiva.[/n]
+
+[/d]4. Procedimiento de aplicación[/d]
+[/n]La aplicación de la Desensibilización Sistemática requiere de unos pasos iniciales preparatorios antes de comenzar con las sesiones de desensibilización propiamente dichas. Estos pasos son:
+Elección de la respuesta incompatible con la ansiedad y posible entrenamiento.
+Elaboración de una jerarquía de ansiedad.
+Valoración de la capacidad imaginativa y entrenamiento en imaginación si se requiere.
+Estas tres actividades pueden llevarse a cabo en paralelo durante las primeras sesiones en la consulta y deben estar dirigidas por el terapeuta. Es obvio que si el sujeto tiene un buen entrenamiento previo en relajación y su capacidad imaginativa es excelente, el trabajo previo a las sesiones de desensibilización será únicamente la elaboración de la jerarquía de ansiedad.[/n]
+
+[/d]4.1. Elección de la respuesta incompatible con la ansiedad[/d]
+[/n]Aunque tradicionalmente la respuesta incompatible con la ansiedad utilizada en la Desensibilización Sistemática ha sido la relajación, puede utilizarse cualquier otra respuesta que resulte incompatible con la ansiedad (meditación, hipnosis, estados emocionales positivos, auto-instrucciones asertivas, etc.). La clave es que se trate de una respuesta que pueda ser utilizada de forma rápida y fácil mientras se están presentando los estímulos evocadores de ansiedad.[/n]
+
+[/d]4.1. Elección de la respuesta incompatible con la ansiedad[/d]
+[/n]Dentro de las técnicas de relajación, quizá los procedimientos más utilizados en la aplicación de la Desensibilización Sistemática sean los derivados del entrenamiento en Relajación Progresiva de Jacobson (1929) (Bernstein y Borkovec, 1983; Labrador, 1998). Este tipo de entrenamiento en relajación presenta la ventaja de tener una estructura muy sistematizada que facilita su entrenamiento y aprendizaje, a la vez que induce con relativa rapidez y facilidad un estado de distensión muscular que suele ser valorado muy positivamente por los pacientes.[/n]
+[/d]4.1. Elección de la respuesta incompatible con la ansiedad[/d]
+[/n]A pesar de las ventajas que conlleva un procedimiento como la relajación, no siempre es posible utilizar esta respuesta incompatible. En algunas poblaciones como es el caso de los niños, a quienes les puede resultar difícil mantener la atención, puede ser más apropiado la utilización de imágenes emotivas para el afrontamiento de los miedos. Los creadores de esta técnica fueron Lazarus y Abramovitz (1979). Su objetivo principal consiste en suscitar un estado emocional diferente e incompatible con la ansiedad. Las imágenes emotivas son sugeridas por el terapeuta durante la exposición a los estímulos fóbicos y su objetivo es provocar respuestas emocionales incompatibles con la reacción de miedo. En nuestro país Méndez (1986 y 1999) ha desarrollado el programa de escenificaciones emotivas a partir de la técnica de Lazarus y Abramovitz. Este programa incluye, entre otros elementos, la exposición gradual en vivo al estímulo temido a través del desarrollo, en forma de juego, de la trama de una historia. El niño está inmerso en ese juego y el terapeuta le va pidiendo que afronte situaciones relacionadas con su miedo.[/n]
+
+[/d]4.1. Elección de la respuesta incompatible con la ansiedad[/d]
+[/n]En otros casos el tipo de problema que se aborda hace aconsejable la utilización de una respuesta incompatible que resulte más ajustada. Por ejemplo, en algunos casos de disfunciones sexuales, como puede ser un problema de miedo a la interacción sexual, la respuesta de excitación sexual es más adecuada que la respuesta de relajación, y más coherente con la situación hacia la que se pretende dirigir el acercamiento del individuo.
+
+[/d]4.2. Elaboración de la jerarquía de estímulos[/d]
+[/n]La presentación gradual del estímulo temido requiere la elaboración de una jerarquía de exposición que ordene los pasos que se irán dando en el acercamiento y manejo del estímulo o situación temida. Esta jerarquía contempla desde los pasos más fáciles, a los más difíciles. Para la graduación de la intensidad de los ítems se utiliza una escala de ansiedad subjetiva de 0 a 100. Los ítems de la jerarquía deben ser concretos y cercanos a la realidad del sujeto, por ejemplo, puede no tener sentido poner en una fobia a las serpientes en un adolescente cuyo principal problema es que no puede ver películas en las que salgan estos animales o ir al zoo con sus amigos, el elaborar un ítem que describa a una serpiente anaconda saliendo del río Amazonas y aproximándose al joven, cuando el paciente no ha estado en la selva amazónica, ni en un sitio parecido, y quizá tampoco piensa hacerlo.[/n]
+
+[/d]4.2. Elaboración de la jerarquía de estímulos[/d]
+[/n]La construcción de una jerarquía lleva cierto tiempo y no es frecuente que se complete en una única sesión. Los pacientes pueden encontrar difícil decidir si una situación les genera más o menos ansiedad que otra, y tampoco suelen estar familiarizados con la asignación de puntuaciones a las situaciones provocadoras de ansiedad. Es importante que la distancia entre ítems no sea muy grande, si tenemos en cuenta que una jerarquía de ansiedad suele tener entre 10 y 15 ítems, es aconsejable que no haya más de 10 unidades entre ellos; si hubiese espacios mayores habría que tratar de generar un ítem intermedio. Es útil que la jerarquía comience con un ítem neutro o muy débil, cuyo afrontamiento resulte muy fácil, y se termine con el máximo de 100. Aunque estas pautas suelen ser útiles para la mayor parte de los problemas, algunos casos debido a su complejidad pueden requerir jerarquías más largas.[/n]
+
+[/d]4.2. Elaboración de la jerarquía de estímulos[/d]
+[/n]Es importante tener en cuenta que aunque el terapeuta ayudará al paciente en la elaboración de la jerarquía y en proveer detalles que permitan una imaginación más vívida y real de cada situación, es el propio paciente quien debe establecer el orden y los detalles que resulten relevantes. Por ejemplo, una paciente con fobia a las cucarachas indicaba que si la cucaracha echaba a volar se producía una disminución importante de la ansiedad, detalle que en otros pacientes, o en el propio terapeuta, podría haber producido un incremento de la ansiedad.[/n]
+
+[/d]4.3. Entrenamiento en imaginación[/d]
+[/n]Aunque la Desensibilización Sistemática puede desarrollarse en vivo, clásicamente la DS es un procedimiento que implica la exposición del estímulo temido en imaginación. La evaluación de la capacidad imaginativa del paciente es necesaria para poder detectar posibles problemas en la capacidad imaginativa que pudiesen interferir con la aplicación de la técnica. El objetivo es que durante la presentación de los ítems en imaginación, el individuo desarrolle una imagen mental lo más vívida posible, de tal forma, que exista cierta similitud con la realidad, y que esta imagen tenga la capacidad de suscitar ansiedad. Si el paciente carece de esta capacidad y la imaginación de las situaciones ansiógenas no genera ansiedad, deberá realizarse un entrenamiento en imaginación y valorar si la capacidad imaginativa desarrollada por el entrenamiento es adecuada para llevar a cabo la técnica de la Desensibilización Sistemática.[/n]
+
+[/d]4.3. Entrenamiento en imaginación[/d]
+[/n]El entrenamiento en imaginación consiste en imaginar escenas concretas, añadiendo todo tipo de detalles. Por ejemplo, se pide al individuo que observe la habitación en la que está y que después trate de reproducirla en su mente. El terapeuta ayudará al paciente en la generación de un mayor número de particularidades, dándole indicaciones concretas de qué debe imaginar (e.g. observar el cuadro que forma la pared a tu derecha, eres capaz de ver sus colores?). Poco a poco se van haciendo cambios en la escena imaginada (e.g. imaginar que está vestido de forma diferente, que el clima ha cambiado, que ha entrado otra persona en la habitación, que la habitación está amueblada de forma diferente, etc.). A medida que se posee un entrenamiento mayor habilidad se realizan cambios más complejos hasta lograr crear con la imaginación escenas muy diferentes y realistas. El entrenamiento en imaginación comienza con escenas neutras, que no tienen que ver con el contenido de la jerarquía. Una vez lograda una capacidad imaginativa adecuada, puede comenzarse con la jerarquía produciendo la ansiedad que se les ha asignado a los ítems. Finalmente, se realiza la comprobación de observación que el nivel de ansiedad que genera el ítem asignado previamente bien por exceso o por defecto, es el mismo que había sido señalado inicialmente, para poder hacer los ajustes que el trabajo clínico vea necesario.[/n]
+
+[/d]4.4. Proceso de la Desensibilización Sistemática[/d]
+[/n]Como ya se ha indicado, una vez se ha producido el entrenamiento en relajación (u otra respuesta), se ha elaborado la jerarquía de ansiedad y se cuenta con una capacidad imaginativa adecuada, se comenzará con las sesiones de desensibilización.
+Antes de las sesiones se acordará con el paciente la señal que debe hacer para indicar que está relajado o que siente ansiedad ante la presentación de algún ítem, en general se trata de una señal con alguno de los dedos de la mano.[/n]
+
+[/d]4.4. Proceso de la Desensibilización Sistemática[/d]
+[/n]La sesión de desensibilización comienza con el paciente reclinado en un sillón y desarrollando la respuesta de relajación que ha sido entrenada. Se le indica que realice la señal acordada cuando se encuentre en estado de relajación. En ese momento, estando el paciente relajado, se presenta el primer ítem de la jerarquía y se le pide que lo imagine con la mayor nitidez y autenticidad posible. Si ante la presentación del ítem el paciente indica la existencia de ansiedad (la ansiedad se evalúa mediante una escala de 0 a 100 “USAs” –la Escala de Unidades Subjetivas de Ansiedad– y se considera que un valor mayor que 25 en USAs equivale a ansiedad), se le da la señal de dejar de imaginar y volver a centrarse en la relajación. En caso de que no se produzca ansiedad el ítem se mantendrá en la imaginación durante unos 15 o 20 segundos, después de los cuales se le pedirá al individuo que vuelva a centrarse unos segundos en la relajación (40 o 50 segundos son suficientes) y se volverá a presentar el mismo ítem siguiendo las mismas pautas, si nuevamente no se produce ansiedad se realizará una nueva pausa para centrarse nuevamente en la relajación y después volver a presentar el ítem una tercera vez. Si no hay ninguna señal de la presencia de ansiedad durante la exposición, el tiempo de exposición de ese ítem se alargará un poco más largo en cada presentación (1ª: 15-20 s / 2ª: 25-30 s / 3ª: 35-50 s). Si hay problemas de ansiedad el tiempo de presentación del ítem se mantendrá constante, repitiendo las mismas secuencias.[/n]
+
+[/d]4.4. Proceso de la Desensibilización Sistemática[/d]
+[/n]Es importante mantener siempre un tiempo de atención en la relajación no inferior a 40 segundos entre las exposiciones, pudiendo alargarse si aparecen señales de ansiedad. La presentación consecutiva de un ítem tres veces sin que se produzca ansiedad, o que lo que se produzca no supere los 25 USAs es el criterio de desensibilización de él, en este momento es posible ya pasar al siguiente en la jerarquía. En general, en una sesión de desensibilización suele dar tiempo a desensibilizar 3 o 4 ítems. Si durante la exposición de un ítem se producen respuestas de ansiedad persistentes (se ha presentado ya cuatro veces y no hay reducción de la ansiedad), se aconseja retroceder al ítem desensibilizado anterior y terminar la DS para identificar el problema (ansiedad excesiva, dificultad en la imaginación y/o en la relajación, etc.). En algunos casos el terapeuta puede tratar de generar un ítem intermedio, entre el actual que presenta problemas y el desensibilizado inmediatamente antes. Si los problemas de ansiedad persistente se dan de forma frecuente en otros ítems, será necesario revisar la jerarquía elaborada.[/n]
+
+[/d]Figura 1. Secuencia procedimental de la Desensibilización Sistemática[/d]
+[/n]El diagrama muestra el procedimiento que se sigue en la técnica de Desensibilización Sistemática en imaginación. Comienza con la evaluación de la capacidad imaginativa y el entrenamiento en relajación. Posteriormente, se presenta el ítem temido en imaginación mientras el paciente está relajado. Luego se evalúa si se presenta ansiedad. Dependiendo del nivel registrado en la escala de Unidades Subjetivas de Ansiedad (USAs), se decide si mantener el ítem, retroceder o avanzar en la jerarquía. Si la ansiedad es inferior a 25 USAs, se avanza al siguiente ítem; si es mayor, se repite la presentación hasta reducir la ansiedad. El objetivo es mantener al paciente relajado hasta que pueda imaginar los ítems sin experimentar ansiedad.[/n]
+
+[/d]Guía para el manejo de la jerarquía de ansiedad[/d]
+[/n]• El ítem a desensibilizar debe generar solo ansiedad leve y manejable. Si el nivel es ligeramente inmanejable, se debe retroceder o generar un nuevo ítem.
+• No se debe avanzar con ítems que generen ansiedad intensa. Esto puede reforzar el miedo en vez de reducirlo, comprometiendo el tratamiento.
+• Solo se progresa cuando la ansiedad asociada al ítem haya desaparecido completamente o sea muy leve. De lo contrario, se corre el riesgo de consolidar la respuesta de ansiedad en lugar de eliminarla.[/n]
+
+[/d]4.5. Variaciones en la aplicación de la Desensibilización Sistemática[/d]
+[/n]La Desensibilización Sistemática fue desarrollada inicialmente como un procedimiento de exposición en imaginación y de aplicación individual. Sin embargo, desarrollos posteriores, algunos de ellos propuestos por el propio Wolpe (como la DS automatizada), han dado lugar a variantes de la técnica que permiten su adaptación a nuevas necesidades y contextos. Algunas de estas variaciones se describen a continuación:[/n]
+
+[/d]4.5.1. Desensibilización Sistemática en vivo[/d]
+[/n]La Desensibilización Sistemática en vivo implica la presentación de los ítems de la jerarquía en el contexto real, lo cual subsana las desventajas que puede tener la imaginación (por ejemplo, en personas con baja capacidad imaginativa) y permite reducir el tiempo de intervención al no requerir el paso por la imaginación. Este procedimiento sigue los mismos pasos que la DS con imaginación, aunque enfrenta dificultades particulares como la elaboración de ítems con características similares a los imaginados. Es ideal cuando la exposición real es fácilmente accesible y controlable, aunque puede generar ansiedad anticipatoria al no contar con la “distancia” que brinda la imaginación.[/n]
+
+[/d]4.5.2. Desensibilización Sistemática en grupo[/d]
+[/n]La Desensibilización Sistemática en grupo permite optimizar el tiempo del terapeuta y brindar apoyo entre los participantes. Se utiliza especialmente cuando varios pacientes comparten una problemática común y pueden beneficiarse mutuamente al compartir experiencias. Sin embargo, presenta limitaciones en la elaboración de jerarquías personalizadas, ya que no todos los pacientes responden de la misma manera ante los estímulos temidos. Además, puede dificultarse el seguimiento individualizado del progreso.[/n]
+
+[/d]4.5.3. Desensibilización Sistemática enriquecida[/d]
+[/n]Esta variante incorpora estimulación física que enriquece la escena imaginada (ruidos, olores, contacto físico, etc.), otorgando mayor realismo. Es útil cuando la exposición en vivo no es viable (por ejemplo, ante una fobia a las tormentas, donde pueden utilizarse sonidos de truenos). No obstante, no siempre genera ansiedad realista y puede afectar la concentración.[/n]
+
+[/d]4.5.4. Desensibilización Sistemática automatizada y auto-aplicada[/d]
+[/n]Este procedimiento incluye la elaboración de una jerarquía adaptada al paciente, seguida de sesiones grabadas con instrucciones para que él mismo aplique la técnica. Esta modalidad resulta útil para personas con dificultades de asistencia a sesiones o con menor acceso a servicios terapéuticos. Aunque otorga flexibilidad, las grabaciones limitan la personalización del tratamiento. Aun así, estudios han mostrado resultados satisfactorios (Wolpe, 1990).[/n]
+
+[/d]5. Ámbitos de aplicación y evidencia empírica[/d]
+[/n]Como se ha señalado a lo largo del presente capítulo, la Desensibilización Sistemática es uno de los procedimientos que presenta mayor evidencia en el tratamiento de problemas fóbicos. En este ámbito, ha demostrado elevados niveles de eficacia y ha sido reconocida por la American Psychological Association como tratamiento eficaz para fobias a los animales, entre otros (Hirai, Vernon y Zborowski, 2007).[/n]
+
+[/d]5. Ámbitos de aplicación y evidencia empírica[/d]
+[/n]No obstante, sus aplicaciones se han extendido a muchos otros problemas dentro del ámbito de la salud mental, incluyendo adicciones (como el alcoholismo), disfunciones sexuales (como la parafilia) o trastornos del comportamiento alimentario. Aunque los resultados en estos contextos son prometedores, deben interpretarse con cautela por la falta de estudios con suficiente rigor metodológico que permitan considerar la técnica plenamente validada en dichos campos.[/n]
+
+[/d]5. Ámbitos de aplicación y evidencia empírica[/d]
+[/n]En el ámbito médico conductual, la Desensibilización Sistemática ha mostrado utilidad en el tratamiento de pacientes con cáncer que desarrollan respuestas condicionadas de vómito o náusea ante la situación de tratamiento, así como en la prevención y manejo de la ansiedad frente a procedimientos médicos dolorosos en niños (Ward et al., 2010). También se ha explorado su uso en el tratamiento del dolor, mostrándose eficaz y en algunos casos comparable a la reestructuración cognitiva para el manejo de cefaleas migrañosas (Potter, 1999; Bamford, 2001).[/n]
+
+[/d]5. Ámbitos de aplicación y evidencia empírica[/d]
+[/n]Por otro lado, en relación con los problemas del sueño, algunos estudios han encontrado que la Desensibilización Sistemática puede ser efectiva en el tratamiento del insomnio, especialmente cuando este está vinculado a la ansiedad anticipatoria (Lancee, Spoormaker y Van den Bout, 2010). Además, ha sido reconocida por comités internacionales como tratamiento probablemente eficaz en el abordaje de terrores nocturnos y otros trastornos del sueño relacionados con el miedo o la activación fisiológica excesiva (Aurora, Zak, Auerbach, Casey, Kristo, et al., 2010).[/n]
+
+[/d]6. Mapa conceptual de la Desensibilización Sistemática[/d]
+[/n]El mapa conceptual ilustra el procedimiento de la Desensibilización Sistemática según el modelo de Wolpe. Muestra los pasos clave: elección de una respuesta incompatible con la ansiedad, elaboración de una jerarquía de ansiedad, valoración de la capacidad imaginativa y la presentación de los ítems. El flujo depende del nivel de ansiedad reportado, decidiendo si se repite o se avanza al siguiente ítem, y se incluye la posibilidad de entrenamiento adicional si se requiere.[/n]
+
+[/d]7. Técnicas de relajación: introducción[/d]
+[/n]La relajación es una de las técnicas más utilizadas en intervenciones psicológicas, especialmente en procedimientos como la Desensibilización Sistemática. Su objetivo es reducir la activación fisiológica, promoviendo la calma, el equilibrio mental y la sensación de paz interior. Esta técnica también tiene efectos emocionales, cognitivos y conductuales.[/n]
+
+[/d]7. Técnicas de relajación: introducción[/d]
+[/n]Su origen se remonta a prácticas religiosas del hinduismo que, mediante la meditación y la respiración, buscaban alcanzar estados de contemplación y serenidad. Dentro de la Terapia Cognitivo Conductual, la relajación adquirió gran importancia a partir del trabajo de Wolpe, quien la integró como respuesta incompatible dentro del procedimiento de contracondicionamiento en la Desensibilización Sistemática.
+Dos técnicas estructuradas ampliamente utilizadas son el Entrenamiento en Relajación Progresiva (Jacobson, 1939) y el Entrenamiento en Relajación Autógena (Schultz, 1931).[/n]
+
+[/d]8. Fundamentación teórica[/d]
+[/n]El entrenamiento en relajación es un proceso de aprendizaje gradual enfocado en reducir la activación general del organismo para afrontar situaciones de forma eficaz. Este proceso aporta beneficios en la salud y equilibrio mental, al influir en el sistema nervioso autónomo (SNA), específicamente en el balance entre su rama simpática (alerta y defensa) y parasimpática (descanso y recuperación), favoreciendo funciones como la reducción de la frecuencia cardíaca, presión arterial y tensión muscular. Además, incrementa neurotransmisores como la serotonina, generando sensaciones de tranquilidad y bienestar.[/n]
+
+[/d]8. Fundamentación teórica[/d]
+[/n]Durante la relajación se han observado varios efectos fisiológicos como: cambios en el patrón EEG (de ritmos beta a alfa), mayor irrigación cerebral, menor consumo de oxígeno, relajación muscular, vasodilatación periférica, regulación del gasto cardíaco, disminución en la intensidad y frecuencia cardíaca y presión arterial.[/n]
+
+[/d]8. Fundamentación teórica[/d]
+[/n]También se reportan cambios respiratorios significativos: disminución de la frecuencia y aumento de la profundidad del ritmo respiratorio, mejora en la capacidad inspiratoria, reducción de la presión parcial de O₂ y aumento del CO₂. Además, hay disminución de adrenalina, noradrenalina, colesterol y grasas en plasma, junto a un incremento en serotonina.[/n]
+
+[/d]8. Fundamentación teórica[/d]
+[/n]De esta manera, una persona en estado de relajación experimenta respiración profunda y rítmica, relajación muscular, sensación de calor interno, latido cardíaco suave, reducción de ansiedad, mejor percepción del esquema corporal y una sensación general de paz y equilibrio mental.[/n]
+
+[/d]8.1. Modelos de efectos de la relajación[/d]
+[/n]Las explicaciones acerca de las vías que se ponen en marcha para conseguir los efectos de la relajación son diversas, existiendo propuestas muy específicas frente a otras más integradoras que plantean que cualquier estrategia de relajación produce un cambio psicofisiológico global en el organismo.[/n]
+
+[/d]8.1.1. El modelo de efectos específicos[/d]
+[/n]Este modelo (Davidson y Schwartz, 1976) plantea que los efectos de la relajación se limitan al sistema de respuesta trabajado (cognitivo, conductual o somático). Por ejemplo, el entrenamiento en Relajación Progresiva de Jacobson generaría solo beneficios somáticos, como la mejora en cefaleas tensionales.[/n]
+
+[/d]8.1.2. Modelo de respuesta de relajación única[/d]
+[/n]Propuesto por Benson (1975, 1983), este modelo sostiene que la relajación activa una única respuesta fisiológica: la desactivación de la rama simpática del sistema nervioso autónomo, lo que explicaría todos sus efectos beneficiosos.[/n]
+
+[/d]8.1.3. Modelo integrativo[/d]
+[/n]Según Schwartz, Davidson y Goleman (1978), cada técnica de relajación tiene efectos específicos (como la vasodilatación periférica del entrenamiento autógeno) y también un efecto general de desactivación simpática. El modelo integrativo propone elegir la técnica en función de los efectos que se necesitan, considerando si son cognitivos, fisiológicos o somáticos. Así, por ejemplo, el entrenamiento autógeno sería ideal para problemas vasculares como migrañas o el síndrome de Raynaud.[/n]
+
+[/d]9. Consideraciones generales para aplicar las técnicas de relajación[/d]
+[/n]Independientemente del tipo de entrenamiento en relajación que se elija hay una serie de condiciones que son requeridas o aconsejadas para cualquier procedimiento, tales como una ropa y lugar adecuado, instrucciones claras y precisas por parte del terapeuta, un tono de voz suave y tranquilo, garantía de que el paciente no presenta ningún problema importante que desaconseje el entrenamiento, o motivación y comprensión por parte del paciente de la utilidad y adecuación de la técnica a su problema.[/n]
+
+[/d]9. Consideraciones generales para aplicar las técnicas de relajación[/d]
+[/n]Es importante resaltar que la evidencia de su eficacia ha producido dentro de la Terapia de Conducta una tendencia profusa a emplear su aplicación como procedimiento prioritario o como componente de otros programas terapéuticos, ayudando por ejemplo a la exposición de situaciones temidas y a los cambios cognitivos necesarios en determinados trastornos. Sin embargo, es preciso señalar que las condiciones básicas que se requieren para su práctica y lo que implica la propia situación de relajación (ponerse en contacto con las sensaciones corporales, limitando la estimulación externa) pueden constituir un contexto cuyo afrontamiento puede no resultar fácil para algunos pacientes que experimentan dificultad al tener que permanecer quietos, notando más intensamente sus sensaciones corporales, siendo especialmente importante el manejo de estas dificultades por parte del terapeuta.[/n]
+
+[/d]9. Consideraciones generales para aplicar las técnicas de relajación[/d]
+[/n]En este sentido, en algunos trastornos como la hipocondría, la agorafobia, o sensaciones físicas intensas de ansiedad, etc., el entrenamiento en técnicas de relajación supone una exposición a esas sensaciones de malestar que puede producir una reactividad fisiológica aún mayor, acompañada de una necesidad de movimiento por lo que el terapeuta debe plantear el entrenamiento considerando la nueva situación y estar en condiciones de ajustar su intervención reduciendo los objetivos de la sesión, dando pautas que faciliten la ejecución (e.g. permitir los ojos abiertos al comienzo) y, en resumen, acondicionar el entrenamiento como un proceso más o menos largo de habituación.[/n]
+
+[/d]9. Consideraciones generales para aplicar las técnicas de relajación[/d]
+[/n]Aunque la idea que transmite la posibilidad de practicar la relajación es la de alcanzar una sensación profunda de bienestar, lo cierto es que durante el entrenamiento en relajación es frecuente que aparezcan respuestas físicas molestas, tales como: calambres musculares, espasmos, sensación de mareo, etc. El terapeuta deberá comentar con el paciente previamente la posibilidad de que aparezcan tales respuestas, tranquilizar al paciente si se dan recordando que son reacciones normales que desaparecerán a medida que continúa el entrenamiento. En las ocasiones en las que aparezcan reacciones emocionales intensas (e.g. llanto, risa, etc.), el terapeuta debe de valorar si es adecuado dejar unos segundos y continuar con el entrenamiento o comentar con el paciente lo que le está ocurriendo.[/n]
+
+[/d]9. Consideraciones generales para aplicar las técnicas de relajación[/d]
+[/n]Por último, hay que tener en cuenta que en personas mayores o con algún deterioro orgánico se debe de valorar el tipo de técnica que se va a aplicar realizando las modificaciones adaptadas para cada caso. Por otro lado, con niños pequeños pueden utilizarse las técnicas de relajación siempre que estos posean una serie de habilidades básicas, tales como poder permanecer sentados en una silla durante un corto periodo de tiempo, mantener contacto ocular, poder imitar conductas y responder a órdenes sencillas.[/n]
+
+[/d]10. Entrenamiento en relajación progresiva[/d]
+[/n]Su desarrollo se debe a Edmund Jacobson (1939), quien comprobó en su laboratorio de fisiología clínica que al tensar y distender grupos musculares y prestar atención a las sensaciones corporales, se reducían las tensiones y contracciones musculares, induciendo un estado de relajación profunda. En su procedimiento original describía más de sesenta ejercicios y requería varios meses para alcanzar un nivel aceptable de relajación. Actualmente, los procedimientos basados en la Relajación Progresiva (RP) son más breves tanto en tiempo de entrenamiento como en número de ejercicios.[/n]
+
+[/d]10. Entrenamiento en relajación progresiva[/d]
+[/n]Una de las adaptaciones más usadas es la de Bernstein y Borkovec (1983; 2000), utilizada en Terapia Cognitivo Conductual. Consiste en entrenar 16 grupos musculares, con sesiones de 30–40 minutos durante las primeras semanas. Posteriormente, se reduce el número de ejercicios y su duración, agrupando los músculos en cuatro zonas o en una sola. Aunque este método guarda similitud con el original, existen diferencias relevantes entre ambas versiones, especialmente en su enfoque y aplicación, como se muestra en la Tabla 1.[/n]
+
+[/d]Tabla 1. Comparación entre el entrenamiento en Relajación Progresiva de Jacobson y los procedimientos modificados[/d]
+[/n]Método de Jacobson: Mayor énfasis fisiológico.
+Procedimientos modificados: Énfasis también cognitivo y conductual.
+Método de Jacobson: Centrado en modificar los niveles de tensión en sí mismos, usando ejercicios de tensión y relajación.
+Procedimientos modificados: Centrado también en la percepción de la tensión emocional y física, y el estado cognitivo que se asocia a la relajación.
+Método de Jacobson: Evita la utilización de estrategias de apoyo (e.g. sugestiones hipnóticas) para no generar dependencia de ellas.
+Procedimientos modificados: Puede utilizar estrategias adicionales para mejorar el cumplimiento y la percepción de la relajación.[/n]
+
+[/d]Tabla 1. Comparación entre el entrenamiento en Relajación Progresiva de Jacobson y los procedimientos modificados[/d]
+[/n]Método de Jacobson: Pretende la captación de niveles y focos de tensión muy leves y concretos.
+Procedimientos modificados: Está más centrado en detectar niveles de tensión y relajación más globales.
+Método de Jacobson: Se enfatiza la utilización de las sesiones para el aprendizaje de la técnica, no tanto para la experimentación del estado cognitivo y emocional que supone la relajación.[/n]
+
+[/d]Tabla 1. Comparación entre el entrenamiento en Relajación Progresiva de Jacobson y los procedimientos modificados[/d]
+[/n]Procedimientos modificados: El objetivo de las sesiones de entrenamiento no sólo es el aprendizaje de la técnica, sino conseguir experimentar las sensaciones asociadas al estado de relajación.
+Método de Jacobson: La generalización de las habilidades se produce a través de la práctica diaria, particularmente aplicando la relajación en las situaciones de alto impacto emocional.
+Procedimientos modificados: La generalización se produce también mediante el condicionamiento de palabras que sirven como estímulos condicionados para reproducir el estado de relajación.[/n]
+
+[/d]10.1. Procedimiento de la relajación progresiva[/d]
+[/n]El objetivo de la Relajación Progresiva es reducir la activación fisiológica mediante la disminución progresiva de la tensión muscular. El método consiste en tensar y soltar diferentes grupos musculares, prestando atención a las sensaciones generadas. La fase de tensión permite identificar las zonas de tensión, mientras que la fase de distensión no requiere esfuerzo, solo atención al alivio que genera relajar el músculo.[/n]
+
+[/d]10.1. Procedimiento de la relajación progresiva[/d]
+[/n]Inicialmente se trabajan 16 grupos musculares con acciones específicas para provocar la tensión, como apretar el puño o empujar con el pie. Luego, la técnica puede simplificarse agrupando los músculos en cuatro grandes zonas:
+Brazos y manos.
+Tronco.
+Cara y cuello.
+Piernas y pies.
+Esto permite una ejecución más breve y eficiente conforme se adquiere práctica.[/n]
+
+[/d]10.2. Indicaciones generales para la práctica de la relajación progresiva[/d]
+[/n]Durante la práctica de la Relajación Progresiva deben seguirse ciertas recomendaciones para obtener los mejores resultados. Es fundamental mantener siempre la misma secuencia de músculos en cada sesión y repasar mentalmente los pasos antes de comenzar para evitar olvidos. Si se omite algún músculo, se debe continuar con el siguiente sin detenerse.[/n]
+
+[/d]10.2. Indicaciones generales para la práctica de la relajación progresiva[/d]
+[/n]La tensión debe mantenerse unos cuatro segundos y luego soltarse de forma inmediata, como si el músculo se liberara bruscamente. La relajación debe mantenerse durante unos quince segundos antes de repetir. Se debe evitar una tensión excesiva para no provocar molestias, y concentrarse en la sensación de alivio.[/n]
+
+[/d]10.2. Indicaciones generales para la práctica de la relajación progresiva[/d]
+[/n]Es importante imaginar cada músculo que se trabaja y observar cómo continúa relajándose por sí solo. Tras completar la secuencia, se recomienda hacer un repaso mental en orden inverso, sin necesidad de volver a tensar, para facilitar la conciencia corporal y la autoexploración.[/n]
+
+[/d]10.3. Variaciones del procedimiento: la relajación diferencial y la relajación pasiva[/d]
+[/n]La Relajación Diferencial, desarrollada por Bernstein y Borcovek (1983), busca que el paciente aprenda a tensar únicamente los músculos implicados en una tarea concreta. Este método entrena la conciencia corporal muscular, ayudando a reconocer cuándo se tensan innecesariamente músculos no implicados, lo cual provoca desgaste físico. Para aplicarla correctamente, se requiere haber pasado por el entrenamiento básico de relajación progresiva, lo que permite identificar tensiones en actividades cotidianas y relajarlas de forma adecuada.[/n]
+
+[/d]10.3. Variaciones del procedimiento: la relajación diferencial y la relajación pasiva[/d]
+[/n]Esta variante está especialmente recomendada para personas que tienden a tensar músculos cercanos a los implicados en acciones cotidianas o han desarrollado patrones tensionales crónicos. Su finalidad es enseñar a relajar lo innecesario y conservar energía física.[/n]
+
+[/d]10.3. Variaciones del procedimiento: la relajación diferencial y la relajación pasiva[/d]
+[/n]Por otro lado, la Relajación Pasiva, desarrollada por Schwartz y Haynes (1974), no implica tensión muscular activa. El terapeuta guía verbalmente al paciente, enfocando su atención en los diferentes grupos musculares mientras da instrucciones de relajación acompañadas de sensaciones sugeridas como peso o calor. Esta técnica es ideal para personas con edad avanzada o con problemas físicos que impiden realizar ejercicios activos de tensión muscular.[/n]
+
+[/d]11. Entrenamiento en relajación autógena[/d]
+[/n]El entrenamiento en Relajación Autógena fue desarrollado por el neurólogo Johannes Heinrich Schultz (1931), quien lo publicó en su libro El Entrenamiento Autógeno. Este método parte del hallazgo de que muchas personas pueden alcanzar estados de relajación profunda mediante representaciones mentales de sensaciones físicas, en especial las de peso y calor. Su funcionamiento parece vincularse al sistema nervioso autónomo, promoviendo el equilibrio entre las ramas simpática y parasimpática. Debido a esto, es especialmente eficaz en trastornos relacionados con disfunciones autónomas, como la hipertensión o las migrañas.[/n]
+
+[/d]11. Entrenamiento en relajación autógena[/d]
+[/n]Este tipo de entrenamiento varía según las características de cada paciente, siendo cruciales para su efectividad aspectos como la motivación, la capacidad de autosugestión, los niveles autónomos de base y la personalidad del sujeto. El procedimiento propuesto por Schultz se fundamenta en tres principios esenciales:[/n]
+
+[/d]11. Entrenamiento en relajación autógena[/d]
+[/n]El entrenamiento en Relajación Autógena fue desarrollado por el neurólogo berlinés Johannes Heinrich Schultz (1931) y publicado inicialmente en su libro *El Entrenamiento Autógeno*. Este método de relajación se basa en el descubrimiento de que la mayoría de las personas son capaces de alcanzar un estado de relajación profunda a través de representaciones mentales de las sensaciones físicas, especialmente de las sensaciones de peso y calor. Este procedimiento parece actuar a través del sistema nervioso autónomo, restableciendo el equilibrio entre las ramas simpática y parasimpática y tiene mayores efectos que otras técnicas de relajación en los trastornos asociados con la disfunción autónoma como la hipertensión o las migrañas.[/n]
+
+[/d]11. Entrenamiento en relajación autógena[/d]
+[/n]El entrenamiento autógeno presenta diferencias en función de las características de cada paciente siendo determinantes a la hora de evaluar su adecuación y utilidad: el grado de motivación y la capacidad de autosugestión de cada sujeto, los niveles autonómicos basales y las variables de personalidad.[/n]
+
+[/d]11. Entrenamiento en relajación autógena[/d]
+[/n]El procedimiento de aprendizaje que Schultz diseñó se basaba en tres principios básicos:
+1. La repetición mental durante breves periodos de tiempo de fórmulas verbales que describiesen las distintas respuestas psicofisiológicas.
+2. La concentración pasiva del paciente.
+3. La ejecución en una postura física determinada y propiciatoria.[/n]
+
+[/d]11.1. Procedimiento de la relajación autógena[/d]
+[/n]La práctica del entrenamiento en relajación autógena consta de varios ejercicios de concentración pasiva en las sensaciones de:
+Peso en brazos y piernas,
+Calor en brazos y piernas,
+Movimiento del corazón,
+La autonomía del proceso respiratorio,
+El calor abdominal interno (plexo solar),
+La diferencia de temperatura entre la frente y el aire circundante.[/n]
+
+[/d]11.1. Procedimiento de la relajación autógena[/d]
+[/n]Los ejercicios consisten en centrar la mente en fórmulas cortas y repetitivas y, al mismo tiempo, intentar imaginar de forma intensa lo que sugieren. Es importante cuidar la forma de acabar los ejercicios. La terminación estándar para regresar al estado habitual se realiza en tres etapas: 1) inspiración profunda, 2) fuerte flexión y 3) estiramiento de brazos y piernas y abrir los ojos.[/n]
+
+[/d]11.1. Procedimiento de la relajación autógena[/d]
+[/n]Se trata de un procedimiento muy estructurado que gira en torno a dos Grados o Ciclos: un Grado Inferior o ejercicios propiamente de relajación y un Grado Superior o ejercicios de imaginación.[/n]
+
+[/d]Grado Inferior[/d]
+[/n]El Grado Inferior del entrenamiento autógeno sirve sobre todo para la relajación. Por lo general, se compone de siete ejercicios que mediante autosugestión dan lugar a sucesivas sensaciones de reposo, pesadez y calor en brazos y piernas, descenso del ritmo cardíaco y respiratorio, calor en el plexo solar y frescor en la frente. La duración recomendada de estas sesiones es de 3 a 5 minutos, nunca se deberá exceder de ese tiempo ya que podría ser contraproducente.[/n]
+
+[/d]Tabla 2. Ejercicios del ciclo inferior e indicaciones[/d]
+[/n]Ejercicio: Pesadez en los brazos y las piernas  
+Fórmula de autosugestión: “Mi brazo derecho pesa mucho”  
+Efecto fisiológico: Relajación muscular  
+Indicación terapéutica: Ansiedad, contracturas, tensión muscular
+Ejercicio: Calor en los brazos y las piernas  
+Fórmula de autosugestión: “Mi brazo derecho está muy caliente”  
+Efecto fisiológico: Vasodilatación periférica  
+Indicación terapéutica: Frialdad en extremidades, dolor muscular, ansiedad[/n]
+
+[/d]Tabla 2. Ejercicios del ciclo inferior e indicaciones[/d]
+[/n]Ejercicio: Latido cardíaco  
+Fórmula de autosugestión: “Mi corazón late tranquilo y regular”  
+Efecto fisiológico: Relajación general del organismo  
+Indicación terapéutica: Hipertensión, palpitaciones, ansiedad, taquicardia
+Ejercicio: Respiración  
+Fórmula de autosugestión: “Mi respiración es tranquila y regular”  
+Efecto fisiológico: Normalización del ritmo respiratorio  
+Indicación terapéutica: Hiperventilación, ansiedad, disnea, asma[/n]
+
+[/d]Tabla 2. Ejercicios del ciclo inferior e indicaciones[/d]
+[/n]Ejercicio: Plexo solar  
+Fórmula de autosugestión: “Mi plexo solar irradia calor”  
+Efecto fisiológico: Vasodilatación abdominal  
+Indicación terapéutica: Trastornos gastrointestinales, dolor abdominal, dispepsia
+Ejercicio: Frente fresca  
+Fórmula de autosugestión: “Mi frente está agradablemente fresca”  
+Efecto fisiológico: Vasoconstricción cerebral  
+Indicación terapéutica: Cefaleas, migrañas, tensión mental[/n]
+
+[/d]Grado Superior[/d]
+[/n]En el Grado Superior se abordan problemas mediante la autosugestión con el fin de solucionarlos o, al menos, mitigarlos. Algunos de los ejercicios empleados en esta fase son:
+Dirigir la vista al centro de la frente e imaginar un color (experiencia con colores).
+Imaginar objetos concretos como una vela encendida o una rosa.
+Dar forma a valores abstractos como la esperanza, el amor, el coraje, etc.
+Visualizar escenas como verse en el fondo del mar.
+Imaginar que se sube a una montaña.
+Representarse a uno mismo cumpliendo un propósito, por ejemplo: “Voy a afrontar con éxito esta situación”.[/n]
+
+[/d]Grado Superior[/d]
+[/n]Para acceder a estos ejercicios es requisito haber dominado los del Grado Inferior. En esta fase suelen presentarse sueños lúcidos con recuerdos vívidos. Después de realizar los ejercicios de introducción (reposo, pesadez, calor, respiración, corazón y abdomen), se entra en una fase de meditación profunda centrada en el abdomen. Desde ahí, se inicia la práctica con la fórmula: “En mi imaginación veo un color”, a partir de la cual se desarrolla la visión sugerida.[/n]
+[/d]11.2. Indicaciones generales para la práctica del entrenamiento autógeno[/d]
+[/n]• El cliente debe de mantener una imagen representativa de la autosugestión que se está indicando y mantener una actitud de observación pasiva de los cambios.• Cada uno de los ejercicios es practicado diariamente y no se ha de introducir un nuevo ejercicio hasta que no se domine el anterior.
+• Cada vez que se avanza con un nuevo ejercicio se deben repasar y practicar los anteriores.[/n]
+
+[/d]11.2. Indicaciones generales para la práctica del entrenamiento autógeno[/d]
+[/n]• Nunca se han de entrenar los ejercicios del Grado Superior hasta que no se hayan dominado los del Grado Inferior.
+• Al iniciar el Grado Superior del entrenamiento el cliente debe girar los globos oculares hacia arriba y hacia adentro como si intentase mirar el centro de la frente.
+• Durante el desarrollo del programa si se presentan sensaciones físicas como hormigueo, excesiva sensación de calor etc. que resultan molestas, éstas pueden ser debilitadas cambiando las fórmulas utilizadas, por ejemplo, en lugar de *muy caliente* se puede emplear *caliente*.
+• Si se presentan pensamientos intrusivos se le indica al paciente que debe de completar el pensamiento y volverse a concentrar en la fórmula.[/n]
+
+[/d]12. Técnicas de respiración[/d]
+[/n]La respiración es un proceso esencial en la regulación de la actividad metabólica del organismo. Mediante el intercambio de gases durante la respiración se produce tanto el aporte de oxígeno necesario para las funciones celulares, como la expulsión de los que se generan en dicha combustión. Se trata de un proceso que se desarrolla en las siguientes fases:
+a) Inspiración: El aire penetra por las fosas nasales y llega a los pulmones a través de los bronquios hasta llegar a los alveolos donde se difunde al torrente sanguíneo.
+b) Pausa inspiratoria: Tras la inspiración se produce una pequeña pausa durante la cual los pulmones se mantienen en un estado de inflación que facilita el intercambio gaseoso (entra O₂ y sale CO₂).
+c) Espiración: El CO₂ penetra en los alveolos y es expulsado al exterior.
+d) Pausa espiratoria: A la espiración le sigue una pausa durante la cual los pulmones permanecen en reposo.[/n]
+
+[/d]12. Técnicas de respiración[/d]
+[/n]La frecuencia de los movimientos respiratorios de inspiración y espiración constituye el ritmo respiratorio. El ritmo en la actividad respiratoria y el volumen de la misma dependen de la actividad del organismo y hay numerosos factores que pueden modificarla pues se trata de un mecanismo auto-regulatorio que, por tanto, varía en función de las necesidades fisiológicas del individuo y del propio estado emocional. Un patrón respiratorio adecuado produce en estado de reposo un aumento del tono parasimpático, porque las tasas inspiratorias bajas y la prolongación en el tiempo de la espiración incrementan los niveles de CO₂ en sangre. Por todo ello, el control respiratorio puede contribuir a modular voluntariamente la acción del sistema nervioso autónomo, manteniendo su activación reducida lo que se traduce en una disminución del estrés.[/n]
+
+[/d]12. Técnicas de respiración[/d]
+[/n]Las técnicas de control de la respiración constituyen el procedimiento más antiguo conocido para reducir los niveles de activación. Sus orígenes se sitúan en oriente y en la India donde las prácticas de la meditación incluyen como elemento esencial pautas respiratorias reguladas conocidas como pranayamas. En occidente su importancia se reconoce unida a las técnicas de relajación y es a comienzos de los años 70 cuando se diseñan estrategias respiratorias específicas para el control de la activación. Estas técnicas tienen como objetivo enseñar a las personas a mejorar la capacidad funcional de sus pulmones, al tiempo que regulan su ritmo natural respiratorio. Se trata de que la persona aprenda el control voluntario de su respiración, de forma que lo pueda aplicar en las situaciones donde la respiración se encuentra alterada. Al conseguir una respiración diafragmática y un ritmo respiratorio lento se reduce la activación fisiológica y psicológica, suscitándose una sensación generalizada de tranquilidad y bienestar (Speads, 1988).[/n]
+
+[/d]12.1. Mecanismos auto-regulatorios de la respiración[/d]
+[/n]Como señala Speads (1988) existen una serie de mecanismos auto-regulatorios de la respiración, es decir, medidas de emergencia de carácter reflejo que permiten suministrar al organismo el aporte de oxígeno necesario cuando hay un incremento de la demanda, y el patrón respiratorio anterior se hace deficiente para esas necesidades. A partir de estos signos se puede intencionalmente favorecer la recuperación de un patrón adecuado mediante las técnicas concretas diseñadas para este fin. Los mecanismos auto-regulatorios más comunes son los siguientes (Chóliz, 1998; Lodes, 1990):
+Bostezos: se producen por una contracción profunda del diafragma que da lugar a un intercambio masivo de aire. Suelen aparecer después de un periodo de respiración superficial o bien en los casos en los que se aporta menos oxígeno del que se necesita, por ejemplo, cuando se está cansado. Con la inhalación masiva de aire, el bostezo equilibra la eficiencia respiratoria.
+Elevación involuntaria de hombros y omóplato. Permite el ensanchamiento de la caja torácica, facilitando cualquier ejercicio de inspiración.
+Suspiros. Se trata de una inhalación lenta y silenciosa seguida de una exhalación repentina y ruidosa. También va precedida de un patrón deficiente de respiración.
+Estiramientos. Facilitan los movimientos de ensanchamiento necesarios para una profunda ventilación y evitan la disminución del tono muscular que induce una respiración cada vez más superficial.[/n]
+
+[/d]12.2. Tipos de respiración[/d]
+[/n]Teniendo en cuenta la musculatura implicada y las zonas donde se concentra el aire inspirado se suele distinguir entre tres tipos de respiración: costal, diafragmática y abdominal.
+Respiración costal. La respiración costal superior o clavicular es el patrón respiratorio más superficial, si bien es el más frecuente, a la vez que el menos saludable. La mayor parte del aire se concentra en la zona superior de la caja torácica, por lo que no llega a producirse una ventilación completa y gran parte de los músculos de la respiración (especialmente el diafragma) permanecen con baja actividad.
+Respiración diafragmática. Se produce gran movilidad de las costillas inferiores y la parte superior del abdomen. El diafragma participa activamente. Se trata del tipo de respiración fisiológicamente más adecuado.
+Respiración abdominal. El tórax permanece inmóvil y es el abdomen el que demuestra una extraordinaria movilidad.[/n]
+
+[/d]12.3. Procedimiento del entrenamiento en respiración[/d]
+[/n]El objetivo del entrenamiento en respiración es conseguir un patrón respiratorio apropiado fisiológicamente que generalmente será adecuado para reducir las diferentes alteraciones respiratorias. No obstante, el tipo de ejercicios variará en función del objetivo de cada intervención. La inspiración correcta fisiológicamente es vía nasal (calienta y humedece el aire, filtra y elimina impurezas y gérmenes), de manera que es la que debemos utilizar en todos los ejercicios de respiración. La espiración adecuada fisiológicamente y la recomendable, por tanto, en relajación también es la nasal (Chóliz, 1998).[/n]
+
+[/d]12.3. Procedimiento del entrenamiento en respiración[/d]
+[/n]De forma previa al comienzo de los ejercicios es importante evaluar tanto los niveles pulmonares, como el tipo de respiración habitual en diferentes condiciones. Debe determinarse el tipo de respiración habitual en diferentes posiciones (de pie, sentado o tumbado) registrando fundamentalmente los siguientes aspectos: a) duración de la inspiración y espiración, b) inspiración nasal o bucal, c) la capacidad respiratoria general, d) la fluidez de la respiración y e) los problemas respiratorios específicos.[/n]
+
+[/d]12.3. Procedimiento del entrenamiento en respiración[/d]
+[/n]Puesto que la respiración varía en función de las necesidades del organismo no se puede pretender una respiración estándar para todas las situaciones. En general los ejercicios de respiración incluyen series de inspiración y espiración con pausas intermedias, modificaciones fisiológicas (e.g. espiración nasal o bucal, inspiración y espiración por una o ambas fosas nasales, en diferentes posiciones del cuerpo, movimiento de brazos, etc.) (Speads, 1988).[/n]
+
+[/d]12.3.1. Descripción de algunos ejercicios de respiración[/d]
+[/n]Respiración profunda
+Se trata de un ejercicio útil para la reducción del nivel de activación general. Las indicaciones son las siguientes:
+Sentarse cómodamente, colocar la mano izquierda sobre el abdomen y la derecha sobre la izquierda.
+Imaginar una bolsa vacía dentro del abdomen, debajo de donde apoyan las manos.
+Comenzar a respirar y notar cómo se va llenando de aire la bolsa y cómo el aire asciende hasta los hombros. Inspirar durante 3-5 segundos.
+Mantener la respiración. Repetirse interiormente “mi cuerpo está relajado”
+Exhalar el aire despacio, al mismo tiempo que uno mismo se da indicaciones o sugestiones de relajación.
+El entrenamiento mediante este ejercicio consiste, en general, en realizar 4 o 5 ejercicios de respiración seguidos y repetir los ejercicios entre diez y quince veces al día, por la mañana, tarde, noche, y especialmente en situaciones estresantes.[/n]
+
+[/d]Respiración contada[/d]
+[/n]Consiste en entrenar una respiración diafragmática, dirigiendo el aire a la parte inferior de las costillas y, a medida que se inspira, se da la indicación de pensar en una palabra (e.g. calma) y en otra al espirar (e.g. relax). Se recomienda hacerlo diez veces seguidas y repetir el ejercicio unas veinte veces.[/n]
+
+[/d]Respiración abdominal[/d]
+[/n]Se trata de entrenar la respiración moviendo únicamente el abdomen intentando que permanezca inmóvil la musculatura torácica y clavicular.[/n]
+
+[/d]Respiración intercostal o media[/d]
+[/n]En este caso el objetivo es dirigir el aire hacia la zona media del tórax, hacia los costados, para favorecer la movilidad de la musculatura intercostal y del tórax.[/n]
+
+[/d]Respiración alternada[/d]
+[/n]La práctica concreta de este ejercicio respiratorio implica:
+Utilizar una posición cómoda y relajada.
+Colocar el dedo pulgar en la ventana nasal derecha y los dedos anular y medio en la izquierda.
+Ocluir la ventana derecha con el pulgar e inspirar con la izquierda lenta y tranquilamente.
+Separar el pulgar y ocluir con los otros dedos la ventana izquierda.
+Espirar por la ventana derecha.
+Mantener el ciclo alternado: inspirar por la derecha, manteniendo cerrada la izquierda. Cuando se desee espirar, cerrar la derecha y espirar por la izquierda.[/n]
+
+[/d]Ejercicios cotidianos[/d]
+[/n]Además de los ejercicios anteriores que se practican en las sesiones de entrenamiento, se pueden realizar otros ejercicios respiratorios durante la jornada sin necesidad de incluirlos en sesiones estructuradas (Chóliz, 1998), pues además de producir una respuesta automática auto-regulatoria permiten aumentar la conciencia respiratoria y cambiar pautas perjudiciales.
+Algunos de los más característicos son los siguientes:
+En posición sentada, dejar que la respiración fluya y notar qué cavidades llena.
+Tirarse de la nariz, abrirse las fosas nasales a la vez que se inspira.
+Oler, inspirar oli­scueando.
+Realizar ejercicios para bostezar (e.g. estirarse, abrir la boca, castañetear, mover la mandíbula inferior, etc.).
+Realizar ejercicios para suspirar, como por ejemplo suspirar a la vez que inclinamos el cuerpo hacia adelante soltando el aire.[/n]
+
+[/d]12.4. Indicaciones generales para la práctica del entrenamiento en respiración[/d]
+[/n]Las sugerencias específicas para la práctica correcta de estos procedimientos de relajación son las siguientes:
+En general se suele establecer un tipo de respiración diafragmática, que llene de aire la parte inferior, media y superior de los pulmones.
+El flujo de aire durante la respiración suele ser el siguiente: durante la inspiración debe llenarse primero la parte inferior (abdominal) y posteriormente la zona costal media y costal superior. La espiración se caracteriza por la expulsión del aire por el mismo orden por el que se ha inspirado.
+La secuencia más característica es la de inspiración-pausa-espiración-pausa.
+Normalmente la respiración debe ser fluida, constante y no forzada.[/n]
+
+[/d]12.4. Indicaciones generales para la práctica del entrenamiento en respiración[/d]
+[/n]La práctica de los ejercicios de respiración puede acompañarse de movimientos de brazos (brazos pegados al costado que ascienden hasta ponerse en cruz a la vez que se inspira y bajan hasta los costados mientras se suelta el aire), u hombros (llevarlos hacia delante al inspirar y retroceder al espirar), para favorecer la inhalación y exhalación de volúmenes considerables de aire, al mismo tiempo que ejercitar la musculatura respiratoria implicada.[/n]
+
+[/d]13. Principales aplicaciones y efectividad de las técnicas de relajación y respiración[/d]
+[/n]Como se indicaba en epígrafes anteriores, se aconseja que la elección de la técnica específica de relajación se haga teniendo en consideración la sintomatología del problema a tratar. Los ejercicios del entrenamiento autógeno implican una mayor respuesta del sistema nervioso autónomo, de tal forma, que este procedimiento se considera especialmente indicado para los problemas que conlleven una desregulación autonómica. El entrenamiento autógeno ayuda a disminuir la frecuencia cardíaca en sujetos con ansiedad y es especialmente un útil en el tratamiento de las migrañas (Lehrer, Athowe y Weber, 1980). Así mismo el entrenamiento en respiración produce también efectos de desactivación autonómica y activación parasimpática relevantes, siendo una excelente opción en el tratamiento de trastornos con un gran componente autonómico, como los cardiovasculares, y sería una opción más específica en el caso de los trastornos de pánico con componente respiratorio (Jacobs, 2001). En algunas formas de ataques de pánico se produce una hiperventilación debida al aumento de ventilación y la disminución del CO₂ en relación con los niveles de oxígeno circulante. Uno de los procedimientos que se han demostrado eficaces en la reducción de estas crisis de angustia es la retención de respiración, la cual permite una disminución en la ventilación y reducción de la ansiedad (Chóliz, 1995). Las técnicas respiratorias se han señalado, además, las técnicas de elección en numerosos protocolos de intervención en relajación, debido a su incidencia directa sobre la activación fisiológica y el sistema nervioso autónomo por lo que son ampliamente utilizadas en el ámbito clínico.[/n]
+
+[/d]13. Principales aplicaciones y efectividad de las técnicas de relajación y respiración[/d]
+[/n]Por su parte la Relajación Progresiva tiene mayor efecto sobre los síntomas somáticos, siendo mejor opción en el caso de las cefaleas tensionales y todos aquellos problemas relacionados con el sistema muscular. En el tratamiento de la ansiedad generalizada se ha mostrado útil combinada con otras técnicas. En las fobias específicas su práctica ayuda al sujeto a exponerse a las situaciones temidas y en la fobia social ha demostrado su utilidad especialmente en pacientes con gran reactividad fisiológica. En trastornos por abuso de sustancias, ha demostrado su eficacia combinada con otras técnicas en personas muy ansiosas y en aquellas que específicamente consumen las sustancias para reducir sus síntomas de ansiedad (Sultanoff y Zalaquett, 2000).[/n]
+
+[/d]13. Principales aplicaciones y efectividad de las técnicas de relajación y respiración[/d]
+[/n]Además el entrenamiento en Relajación Progresiva se ha empleado en el tratamiento de problemas psicofisiológicos tales como insomnio, trastornos relacionados con el sistema cardiovascular, procesos de dolor, enfermedades crónicas como la diabetes, asmáticos con precipitantes emocionales, y manejo de los vómitos anticipatorios condicionados a la quimioterapia. En todos estos trastornos se ha mostrado eficaz para reducir los síntomas y para reducir la potencia de los fármacos (Jacobs, 2001). En el caso de los niños ha demostrado su utilidad sobre todo en el tratamiento de la hiperactividad y en la mejora del aprendizaje y rendimiento académico.[/n]
+
+[/d]14. Problemas asociados a la relajación[/d]
+[/n]Aunque los beneficios de la relajación son muy amplios, la práctica de estos procedimientos puede tener algunos efectos secundarios negativos que es necesario tener en cuenta. Por ejemplo, no es infrecuente que pacientes con diagnóstico de ansiedad generalizada incrementen, en vez de disminuir, su nivel de tensión durante la relajación, encontrando la experiencia imprevista y muy estresante (Borkovec y Grayson, 1980; Ley, 1988).[/n]
+
+[/n]Anteriormente se han mencionado algunos efectos adversos de la relajación como mareo, sensaciones molestas de excesivo calor, sensación de pérdida de control, pánico etc. (Ley, 1988). A continuación se exponen dos de las consecuencias adversas de la relajación más documentadas.[/n]
+
+[/d]Descargas autógenas[/d]
+[/n]Las descargas autógenas (Schultz y Luthe, 1969) se consideran experiencias físicas y emocionales que incluyen dolor, ansiedad, palpitaciones, calambres musculares o llorar. Estos episodios pueden no ser contra-terapéuticos pero pueden llevar al individuo a abandonar el entrenamiento e incluso el tratamiento. En algunos casos el entrenamiento autógeno puede inducir incrementos de presión arterial que pueden resultar peligrosos en el caso de pacientes hipertensos (Sultanoff y Zalaquett, 2001). En este caso debe haber una monitorización psicofisiológica del entrenamiento en relajación que nos mantenga informados de los cambios fisiológicos que se están produciendo.[/n]
+
+[/d]Ansiedad inducida durante la relajación[/d]
+[/n]La posibilidad de que se produzca el incremento de los niveles de ansiedad durante la relajación es un hecho conocido (Heide y Borkovec, 1983 y 1984). Este efecto se ha relacionado más con la práctica de la meditación que con procedimientos como la Relajación Progresiva (Heide y Borkovec, 1983; Norton, Rhodes, Hauch y Karpowy, 1985).[/n]
+
+[/d]Ansiedad inducida durante la relajación[/d]
+[/n]En general las descargas autógenas y la ansiedad inducida por la relajación son más frecuentes durante el entrenamiento autógeno y la meditación que con la práctica de la Relajación Progresiva. Pocos pacientes manifiestan un aumento del nivel de ansiedad con la práctica de la RP, indicando que esta técnica es más fácilmente tolerable que otros procedimientos.[/n]
+
+[/d]Ansiedad inducida durante la relajación[/d]
+[/n]Aunque algunos autores consideran que los síntomas de ansiedad inducidos por la relajación pueden ser terapéuticos si el paciente aprende a superarlos mediante la técnica (Smith, 1988), hay datos que permiten considerar estas respuestas como un predictor de pobres resultados terapéuticos (Borkovec, Mathews, Chambers, Ebrahimi, Lytle y Nelson, 1987).[/n]
+
+[/d]15. Mapa conceptual de las técnicas de relajación[/d]
+[/n]Este mapa conceptual resume los principales componentes y relaciones entre las diferentes técnicas de relajación descritas en el texto. La relajación se vincula como objetivo central a la recuperación de la calma y al equilibrio entre el medio externo e interno, reduciendo el estado de activación fisiológica y promoviendo el equilibrio del sistema nervioso autónomo (SNA).[/n]
+
+[/d]15. Mapa conceptual de las técnicas de relajación[/d]
+[/n]Se reconocen dos ramas principales: la respiración y el entrenamiento en relajación. La respiración es identificada como la técnica más antigua, con raíces en prácticas como los pranayamas de la India. Incluye mecanismos auto-regulatorios (bostezos, hombros, suspiros, estiramientos), y distintos tipos como: respiración costal, diafragmática y abdominal, además de ejercicios como respiración profunda, abdominal, intercostal, alternada y ejercicios cotidianos.[/n]
+
+[/d]15. Mapa conceptual de las técnicas de relajación[/d]
+[/n]Por otro lado, el entrenamiento en relajación se divide en Relajación Progresiva y Relajación Autógena. La primera, desarrollada por Jacobson, se centra en la tensión y distensión de grupos musculares y busca disminuir el tono muscular. La segunda, desarrollada por Schultz, se basa en representaciones mentales de peso y calor, y se estructura en dos grados: inferior (relajación) y superior (imaginación).[/n]
+
+[/d]16. Conclusiones y consideraciones finales[/d]
+[/n]Pocos ejemplos hay en la Terapia Cognitivo Conductual como el de la Desensibilización Sistemática. La DS es el primer procedimiento terapéutico sistematizado en esta orientación para el tratamiento del miedo, y el primero puesto a prueba experimentalmente con un rigor experimental digno de los criterios actuales (Paul 1966). Esta técnica ha permanecido en uso hasta la actualidad perdurando como una herramienta de gran utilidad y eficacia en muy diversos casos y condiciones. Su permanencia hasta nuestros días habla de la sagacidad de su autor a la hora de apreciar los elementos y mecanismos de acción fundamentales en problemas fóbicos, pero también de la fructífera relación que se estableció en la primera generación de la Terapia de Conducta entre ciencia básica y aplicada. Esta relación permitió generar procedimientos como la DS con un alto grado de depuración, de tal forma, que la técnica se ha mantenido a pesar de las controversias posteriores sobre sus mecanismos de acción, pues independientemente de consideraciones teóricas, su eficacia se ha puesto siempre de manifiesto.[/n]
+
+[/d]16. Conclusiones y consideraciones finales[/d]
+[/n]Por su parte las técnicas de relajación tienen una historia bien diferente en la Terapia Cognitivo Conductual, procedentes de tradiciones que nada tienen que ver con el carácter científico-experimental de la Terapia Cognitivo Conductual, han encontrado en este ámbito la forma de abundar en su sistematización y de acreditarse científicamente, habiendo trascendido connotaciones exotéricas, para transformarse en estrategias de intervención reconocidas y avaladas por la investigación más rigurosa en el ámbito de la salud (Jacobs, 2001).[/n]
+
+[/d]17. Resumen[/d]
+[/n]• La DS tal y como fue formulada en sus inicios está basada en los principios del condicionamiento clásico.
+• El concepto de inhibición recíproca establece que la respuesta de ansiedad o miedo puede ser reducida o inhibida mediante la generación de una respuesta incompatible con la ansiedad.
+• El concepto de contracondicionamiento se refiere al debilitamiento de la conexión entre el estímulo y la respuesta de ansiedad que provoca, mediante el mantenimiento de la relajación a medida que se van presentando gradualmente en imaginación estímulos de intensidad ansiógena creciente.
+• Los mecanismos de cambio que implica la DS son bastante más complejos que los que se propusieron en sus orígenes y más cercanos al resto de los tratamientos de exposición que lo que cabía esperar inicialmente.
+• La DS es más eficaz en problemas fóbicos que en problemas de ansiedad generalizada, fobia social, agorafobia o trastorno obsesivo-compulsivo.
+• Los pasos a seguir en la aplicación de un DS son:
+a) elección de la respuesta incompatible con la ansiedad y posible entrenamiento,
+b) elaboración de una jerarquía de ansiedad,
+c) valoración de la capacidad imaginativa y entrenamiento en imaginación si se requiere.[/n]
+
+
+[/n]• La relajación es probablemente la técnica más utilizada en las intervenciones psicológicas.
+• El origen de las técnicas de relajación y respiración se sitúa en la cultura oriental vinculado a prácticas religiosas del hinduismo.
+• Una persona en estado de relajación experimenta una respuesta de desactivación autonómica generalizada que implica, entre otras funciones, respiración tranquila, profunda y rítmica, aflojamiento muscular, sensación de calor interno y cutáneo y latido cardíaco rítmico y suave.
+• El modelo integrativo de la respuesta de relajación parece ser el más avalado empíricamente, indicando que la mayor parte de los procedimientos de relajación tienen efectos muy específicos, así como un efecto general de reducción de la respuesta ante el estrés.
+• Los ejercicios del entrenamiento autógeno y los de respiración implican una mayor respuesta del sistema nervioso autónomo, sin embargo, la relajación progresiva tiene un mayor efecto muscular.[/n]
+
+
+
+
+

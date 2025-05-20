@@ -1,0 +1,521 @@
+[/d]Palabras clave\[/d]
+[/n]• Terapia Racional Emotiva Conductual
+• Modelo ABC
+• Pensamiento irracional
+• Ansiedad del Yo
+• Estilo terapéutico
+• Ansiedad perturbadora
+• Emociones desadaptativas
+• Filosofía de vida
+• Salud psicológica
+• Relación con el paciente\[/n]
+
+[/d]Objetivos\[/d]
+[/n]Este capítulo ha sido escrito con el objetivo de que el lector o lectora...
+• Conozca e identifique las influencias y el marco conceptual que dan origen a la Terapia Racional Emotiva Conductual (TREC)
+• Conozca los principios básicos de la TREC
+• Conozca e identifique las fases del proceso de terapia, así como la estructura de las sesiones
+• Reconozca la importancia y el papel que, en este marco, adquiere el estilo terapéutico y la relación con el paciente
+• Conozca las principales técnicas de intervención que forman la Terapia Racional Emotiva Conductual y su aplicación en cada fase[/n]
+
+[/d]1. Introducción[/d]
+[/n]La creencia de que los problemas psicológicos derivaban de una historia de condicionamiento inadecuado fue la base de la primera generación de terapeutas de conducta, quienes desarrollaron tratamientos basados en principios del condicionamiento clásico y operante. Sin embargo, el modelo estímulo-respuesta fue pronto cuestionado debido a su limitada capacidad explicativa frente a la complejidad de la conducta humana. Además, la baja efectividad de estas intervenciones en trastornos del estado de ánimo como la depresión dio paso a la incorporación de elementos cognitivos en la terapia de conducta, marcando el inicio de la llamada segunda generación.[/n]
+
+[/d]1. Introducción[/d]
+[/n]El surgimiento del enfoque cognitivo-conductual fue impulsado por autores como Albert Ellis, quien integró variables y modelos cognitivos para enriquecer la terapia. Ellis, influenciado por otros enfoques psicoterapéuticos, propuso la Terapia Racional Emotiva Conductual (TREC), centrada en modificar creencias irracionales o núcleos cognitivos disfuncionales que originan los estados de perturbación psicológica. Este giro teórico representó una transición importante hacia la cognitivización de la terapia de conducta.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]Albert Ellis (1913–2007) fue el creador de la Terapia Racional Emotiva Conductual (TREC) y uno de los pioneros de la Terapia Cognitivo-Conductual. En 1957 presentó un modelo de intervención psicoterapéutica al que llamó Terapia Racional, donde destacaba el papel de las creencias irracionales en el origen de los trastornos emocionales. Defendía que cambiar dichas creencias podía conducir a un cambio emocional y conductual.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]En 1961 cambió el nombre a Terapia Racional Emotiva para remarcar que no se centraba exclusivamente en las creencias, sino que también se consideraban las emociones. Más adelante, en 1993, volvió a modificar la denominación por Terapia Racional Emotiva Conductual, para destacar que la conducta también es un objetivo de cambio y que se utilizan técnicas conductuales en el proceso.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]Ellis mostró gran interés en los temas de pareja y sexualidad, lo cual lo llevó a fundar en 1941 el Instituto LAMP (Problemas de Amor y de Pareja), con el objetivo de asesorar sobre problemas afectivos y sexuales. Buscando mayor formación, se doctoró en psicología en la Universidad de Columbia y se formó también como psicoanalista, aunque mantuvo una postura crítica frente al psicoanálisis tradicional, al que consideraba poco eficaz para resolver problemas actuales.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]A lo largo de su desarrollo teórico, Ellis incorporó influencias filosóficas como las de Epicteto (de quien retoma la idea: “Los hombres no se perturban por las cosas, sino por cómo se las toman”) y de pensadores como Kant, Spinoza, Schopenhauer y filósofos de la ciencia como Popper y Reichenbach. Este enfoque apoyaba su defensa del uso del pensamiento racional, lógico y empírico en la terapia.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]La TREC está centrada en valores como la aceptación incondicional del ser humano, la autoayuda, la autodirección y la responsabilidad personal. También promueve una visión filosófica de vida racional y flexible como parte del tratamiento.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]Desde su formación psicoanalítica, Ellis integró ideas de Adler (sobre la autoestima y sentimientos de inferioridad) y de Karen Horney (sobre el pensamiento dogmático y absolutista). También incluyó aportes de los primeros terapeutas de conducta como Dunlap, Watson y Rayner, cuyas técnicas fueron incorporadas a su modelo como herramientas fundamentales para el cambio.[/n]
+
+[/d]2. Origen histórico[/d]
+[/n]Ellis evaluó la eficacia de técnicas conductuales (por ejemplo, para hablar en público o superar miedos) y, a medida que la Terapia Racional evolucionó, se fueron incorporando técnicas con efectividad comprobada, consolidando así la TREC como una terapia integradora orientada al cambio conductual, emocional y cognitivo.[/n]
+
+[/d]3. Fundamentos teóricos y filosóficos[/d]
+[/n]La Terapia Racional Emotiva Conductual (TREC) considera al ser humano como un organismo complejo y biopsicosocial, con una fuerte tendencia a establecer metas y propósitos para lograrlos. Sus dos metas básicas son:
+mantenerse con vida, y obtener el mayor bienestar posible evitando el malestar innecesario.
+Estas metas básicas guían la conducta humana a lo largo de la vida y están relacionadas con la búsqueda de sentido y felicidad (Ellis, 1962, 1979a, 1984a).[/n]
+
+[/d]3.1. Los ABCs de la Terapia Racional Emotiva Conductual[/d]
+[/n]Cuando los individuos intentan alcanzar sus metas, se enfrentan a diversos acontecimientos activadores (A). Estos no generan consecuencias emocionales por sí mismos, sino que lo hacen en función de la interpretación o valoración que el individuo hace de ellos (B). Las consecuencias emocionales, cognitivas o conductuales resultantes se conocen como C.[/n]
+
+[/d]3.1. Los ABCs de la Terapia Racional Emotiva Conductual[/d]
+[/n]Este modelo de análisis se conoce como el modelo ABC, propuesto por Ellis (1984). Según este modelo:
+A: Acontecimiento activador
+B: Creencias que median la interpretación de A
+C: Consecuencias emocionales, conductuales o cognitivas[/n]
+
+[/d]3.1. Los ABCs de la Terapia Racional Emotiva Conductual[/d]
+[/n]Por ejemplo, perder un trabajo (A) no genera automáticamente depresión o ansiedad (C); lo que produce ese efecto es la creencia irracional asociada como: “no valgo nada”, “nunca seré feliz”, etc. (B). Estas creencias irracionales amplifican las consecuencias emocionales negativas.
+Ellis señaló que las creencias racionales conducen a consecuencias saludables, mientras que las irracionales, al ser absolutistas, dogmáticas o evaluativas, provocan malestar emocional intenso.
+Por tanto, en la TREC se considera que lo que realmente afecta emocionalmente no es el evento en sí, sino la interpretación que el sujeto hace de él. Así, modificar las creencias disfuncionales resulta clave para cambiar las emociones y comportamientos derivados.[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]Desde la perspectiva de la TREC, el malestar emocional tiene su origen en la diferencia entre creencias racionales e irracionales, que influyen en el desarrollo de emociones, conductas y pensamientos funcionales o disfuncionales. Según Ellis (1994; 1995), las creencias racionales son evaluaciones de significado personal que se expresan como deseos, preferencias o gustos. Son flexibles y permiten establecer metas libremente.[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]Las creencias irracionales, en cambio, son evaluaciones rígidas y absolutistas, que suelen expresarse en términos como "debería" o "tendría que", generando emociones perturbadoras y limitando el logro de metas y bienestar. La racionalidad o irracionalidad de una creencia no se determina en términos absolutos, sino por su utilidad para alcanzar metas deseadas.[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]Estas creencias irracionales se parecen a los esquemas de pensamiento negativos en otras terapias cognitivas. DiGiuseppe (2010) propuso llamarlas esquemas irracionales, ya que funcionan como estructuras amplias, tácitas y automáticas que afectan nuestras expectativas y evaluaciones del entorno. Según Maultsby (1975), las creencias irracionales se caracterizan por:
+no basarse en principios lógicos ni evidencia empírica,
+ser automáticas e inconscientes,
+obstaculizar la consecución de metas vitales.[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]Ellis identificó más de 200 creencias irracionales; sin embargo, en 1962 publicó en Razón y Emoción en Psicoterapia las 11 más significativas:
+Necesito el amor y la aprobación de todas las personas importantes de mi entorno.
+Para considerarme valioso debo ser absolutamente competente y exitoso.
+Hay personas malas que deben ser castigadas por sus malas acciones.
+Realmente es horrible y catastrófico que las cosas no salgan como deseo.
+Las desgracias son causadas por factores externos, y no tengo control sobre ellas.
+Es más fácil evitar responsabilidades que afrontarlas.
+Es mejor depender de otros más fuertes que de mí mismo.
+Lo que me ocurrió en el pasado determina mi presente y mi futuro.
+Debo preocuparme constantemente por los problemas de los demás.
+Debe existir una solución perfecta para cada problema.
+Si no la encuentro, es horrible y no puedo soportarlo.[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]En la actualidad, la TREC se enfoca en cuatro grandes formas de pensamiento irracional:
+Demandas o exigencias (e.g.: “Debería complacer a todos”)
+Catastrofismo (e.g.: “Si no consigo ese trabajo, será terrible”)
+Baja tolerancia a la frustración (e.g.: “No puedo soportar que me rechacen”)
+Desvalorización global del ser humano (e.g.: “Soy un fracaso total”)[/n]
+
+[/d]3.2. Mecanismos cognitivos del malestar[/d]
+[/n]Ellis (1984a) considera que el catastrofismo, la baja tolerancia a la frustración y la desvalorización personal se derivan de las demandas absolutistas expresadas en “debería” y “tendría que”. Wessler (1984) argumenta que estas tres formas podrían ser primarias. Más recientemente, Dilorenzo, David y Montgomery (2007) señalaron la interdependencia entre ambas: las exigencias y las evaluaciones catastrofistas son dos caras de la misma moneda.[/n]
+
+[/d]3.3. Tendencias biológicas básicas[/d]
+[/n]Aunque Ellis (1976, 1979a, 1984a) reconoce la influencia social y cultural en el desarrollo del pensamiento irracional, también afirma que, incluso con educación racional, las personas tienden biológicamente a convertir sus preferencias en exigencias absolutistas. Según Ellis, los seres humanos presentan dos tendencias biológicas clave:
+La tendencia al pensamiento irracional.
+La capacidad de elegir cambiar sus creencias irracionales si así lo desean.[/n]
+
+[/d]3.3. Tendencias biológicas básicas[/d]
+[/n]La primera tendencia se refiere a la facilidad con la que las personas transforman sus deseos en exigencias (“debo”, “tengo que”), lo que suele llevar a emociones perturbadoras. Para respaldar esta afirmación, Ellis y Dryden (1997) recopilan 10 argumentos que justifican la base biológica del pensamiento irracional.[/n]
+
+[/d]3.3. Tendencias biológicas básicas[/d]
+[/n]Tabla 1. Argumentos de defensa de las bases biológicas del pensamiento irracional (Ellis, 1976a; 1976c; 1994c):
+Todos los seres humanos tienen algún tipo de pensamiento irracional y de autoderrota.
+Pensamientos irracionales con exigencias absolutistas se encuentran en todas las culturas.
+Muchas conductas autodestructivas, como procrastinar, se deben a exigencias internas irracionales.
+Incluso personas brillantes y exitosas pueden caer en pensamientos irracionales.
+Las creencias irracionales tienden a ser resistentes al cambio, aunque se reconozcan como tales.
+Cambiar creencias irracionales requiere entrenamiento emocional y motivación.
+Las personas tienen dificultad para cambiar sus hábitos y patrones de conducta, incluso dañinos.
+Algunas conductas de autoderrota parecen estar relacionadas con la estructura del pensamiento humano.
+Muchos seres humanos siguen modelos irracionales a pesar de ser conscientes de su efecto negativo.
+Las personas racionales también muestran pensamientos irracionales en momentos de presión.[/n]
+
+[/d]3.3. Tendencias biológicas básicas[/d]
+[/n]La segunda tendencia biológica se refiere a la capacidad de las personas para superar el pensamiento irracional. Ellis sostiene que los seres humanos no están condenados a ser esclavos de sus pensamientos disfuncionales. A través del esfuerzo consciente, es posible elegir cambiar esas creencias irracionales y, con ello, eliminar las emociones negativas perturbadoras que generan.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]La TREC sostiene que no todas las emociones negativas son disfuncionales. Algunas pueden ser saludables o adaptativas si no interfieren con el logro de metas. Estas se denominan emociones adecuadas, e incluyen tanto sentimientos positivos como negativos.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]Emociones positivas adecuadas incluyen: amor, placer, curiosidad y alegría.
+Emociones negativas adecuadas incluyen: dolor, tristeza, frustración, incomodidad y malestar leve, cuando ayudan a afrontar situaciones y no paralizan la acción.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]En contraste, las emociones inadecuadas o desadaptativas interfieren con la consecución de metas. Entre ellas están:
+Prepotencia emocional, como la grandiosidad
+Negativas extremas, como la ira, depresión, ansiedad, desesperación, inutilidad y culpa excesiva[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]Estas emociones se consideran inadecuadas porque distorsionan la percepción del malestar, intensifican la frustración, o paralizan la conducta. Según Ellis (1994), las emociones adaptativas están relacionadas con creencias racionales, mientras que las emociones desadaptativas se vinculan con creencias irracionales.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]La tabla muestra cómo una misma situación puede generar una emoción negativa insana o una emoción negativa sana, dependiendo de la creencia que la acompaña. Cada ejemplo parte de una emoción perturbadora, su creencia irracional, su equivalente emocional saludable y la creencia racional asociada:
+Ansiedad: Se presenta cuando una persona piensa: “He estudiado mucho para este examen. No debería bajo ninguna circunstancia suspender; si ocurre, será terrible.” Esta creencia irracional conduce a una ansiedad perturbadora. En cambio, una creencia racional sería: “He estudiado mucho para este examen. Espero no suspender, porque sería mala suerte.”, lo cual genera una preocupación, que es una emoción sana y adaptativa.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]Depresión: Surge con pensamientos como: “No debería haberse ido mi hijo de casa. Es terrible que se haya ido.” Esta interpretación absolutista provoca una emoción intensa de tristeza disfuncional. En contraste, una creencia racional sería: “Siento mucho que mi hijo se haya ido de casa, pero no puedo hacer nada por evitarlo.”, lo que da lugar a una tristeza normal y proporcional a la situación.
+Vergüenza: Se produce cuando una persona piensa: “He metido la pata. Es terrible, no debería haberlo hecho. Todos pensarán que soy un auténtico estúpido.” Esta creencia genera una vergüenza paralizante. Una forma racional de afrontar la misma situación sería pensar: “He metido la pata, pero ya qué le hago.”, lo que puede provocar decepción, una emoción más saludable y manejable.[/n]
+
+[/d]3.4. Emociones adaptativas y desadaptativas[/d]
+[/n]Culpa: Aparece en frases como: “Me he enfadado con Juan sin razón. No lo podía ver. No debería nunca hacer estas cosas, no tengo perdón.” Este tipo de autoevaluación extremista genera culpa insana. Una creencia racional podría ser: “Me he enfadado con Juan sin razón. Le pediré disculpas.”, lo que conlleva un remordimiento sano que favorece la reparación del daño.
+Ira: Se manifiesta con pensamientos como: “Ese chico es un sinvergüenza, se ha colado en la fila. Tendría que haber hecho lo mismo que todos: esperar su turno.” Esta exigencia genera una ira desadaptativa. Una alternativa racional sería: “Vaya cara que tiene ese chico, se ha colado. Pero no vale la pena alterarme por eso.”, lo que genera enojo, una emoción proporcional que permite mantener el autocontrol.
+[/n]Este análisis evidencia cómo el tipo de creencia (racional o irracional) que acompaña a un hecho puede determinar si la emoción resultante es funcional o perturbadora. Así, la TREC propone modificar creencias para transformar emociones y promover respuestas más adaptativas.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Según Ellis (1979b; 1980), cuando las personas tienen demandas absolutistas hacia sí mismas, hacia otras personas o hacia el mundo, experimentan una emoción negativa intensa que puede dividirse en dos tipos de perturbación psicológica:
+Ansiedad del Yo
+Ansiedad perturbadora[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Ansiedad del Yo se refiere al malestar emocional vinculado al temor de no cumplir con las propias exigencias o expectativas internas. Las personas con este tipo de ansiedad suelen:
+Sentir que su valía o “yo” está amenazado.
+Pensar que “deben” hacer todo bien para ser aprobadas por los demás.
+Calificar como “horrible”, “terrible” o “catastrófico” el no alcanzar estándares autoimpuestos.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Esta ansiedad conlleva vergüenza, culpa e inutilidad, y se relaciona con la autoevaluación global negativa. La solución saludable que propone la TREC es desarrollar autoaceptación incondicional, reconociendo la falibilidad humana sin descalificación personal.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Ansiedad perturbadora, por otro lado, surge ante demandas absolutistas respecto al entorno. Las personas que la experimentan:[/n]
+Consideran que su vida no será satisfactoria si no se cumplen ciertas condiciones externas.
+Creen que “deben” obtener cosas para ser felices o evitar el sufrimiento.
+Evalúan como “terrible” o “insoportable” el no conseguir lo que desean.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Este tipo de ansiedad se relaciona con la frustración ante el mundo, al ver la realidad a través de creencias rígidas sobre lo que debería ocurrir. Se basa en una falta de tolerancia al malestar y a la incertidumbre. Según Dryden (2009), la alternativa racional es una actitud saludable que acepta las condiciones cambiantes del entorno sin necesidad de dramatización.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]Ellis (1990) señala que la ansiedad perturbadora puede confundirse con la ansiedad generalizada, aunque esta suele extenderse a situaciones más amplias y no está asociada necesariamente a una creencia irracional específica. En terapia, ayudar al cliente a dejar de horrorizase por su malestar emocional suele ser un paso previo crucial en el tratamiento de sus dificultades sociales o personales.[/n]
+
+[/d]3.5. Ansiedad perturbadora y ansiedad del yo[/d]
+[/n]En síntesis, aunque ambos tipos de ansiedad pueden coexistir, la TREC recomienda tratarlos de forma diferenciada.
+La ansiedad del yo está asociada a creencias irracionales sobre la incompetencia o desvalorización personal.
+La ansiedad perturbadora surge de una intolerancia al malestar y de la creencia de que las emociones negativas son malas y no deben existir.[/n]
+
+[/d]3.6. Filosofía de vida y salud psicológica[/d]
+[/n]La TREC otorga un lugar central a los aspectos filosóficos, entendidos como el conjunto de valores y actitudes racionales que contribuyen al bienestar emocional. La forma en que una persona interpreta su vida y organiza sus creencias influye en su salud psicológica, especialmente en la aparición o mantenimiento de perturbaciones emocionales.[/n]
+
+[/d]3.6. Filosofía de vida y salud psicológica[/d]
+[/n]Ellis destaca dos principales perturbaciones asociadas a creencias irracionales: la ansiedad del yo y la ansiedad perturbadora. Frente a esto, propone una filosofía de vida racional, que pueda asumirse como objetivo terapéutico en la TREC. Esta filosofía no se basa en exigencias absolutistas, sino en principios flexibles que favorecen el equilibrio emocional.[/n]
+
+[/d]3.6. Filosofía de vida y salud psicológica[/d]
+[/n]Tabla 3. Filosofía de vida que, según la TREC, favorece el ajuste emocional:
+La tabla muestra 13 principios racionales que constituyen el marco filosófico propuesto por Ellis. Estos principios promueven una actitud más realista, flexible y saludable hacia la vida, los demás y uno mismo. Se destacan los siguientes conceptos clave:[/n]
+
+[/d]3.6. Filosofía de vida y salud psicológica[/d]
+[/n]Interés por uno mismo: Reconocer que cuidarse y procurar el propio bienestar no es egoísmo.
+Interés social: Valorar el bienestar de los demás como parte del propio bienestar.
+Autodirección: Asumir la responsabilidad de la propia vida sin exigir aprobación constante.
+Tolerancia a la frustración: Aceptar las dificultades sin dramatizarlas.
+Flexibilidad: Evitar establecer reglas rígidas para uno mismo o los demás.
+Aceptación de la incertidumbre: Reconocer que el mundo es impredecible y tolerar la duda.
+Compromiso creativo: Buscar satisfacción en metas significativas con autonomía.
+Pensamiento científico: Evaluar creencias racionalmente y ajustarlas según la evidencia.
+Autoaceptación: Reconocer errores sin perder el respeto por uno mismo.
+Asumir riesgos: Enfrentar los desafíos pese al miedo o incomodidad.
+Hedonismo en sentido amplio: Buscar el placer responsablemente, sin autoindulgencia destructiva.
+No utopismo: Reconocer que los ideales no siempre se cumplirán y aceptar esa realidad.
+Auto-responsabilidad del malestar emocional: Asumir que el malestar proviene de nuestras creencias y no de los acontecimientos en sí.[/n]
+
+[/d]3.6. Filosofía de vida y salud psicológica[/d]
+[/n]Ellis sostiene que fomentar esta filosofía de vida en terapia permite prevenir la aparición de nuevas creencias irracionales incluso después de superar las antiguas. El objetivo no solo es cambiar pensamientos puntuales, sino también el sistema de valores que los sustenta.
+La TREC argumenta que una vida basada en principios racionales y no en absolutismos favorece una existencia más saludable psicológicamente. Esta visión rechaza la imposición de dogmas y busca el equilibrio entre deseos, responsabilidades y aceptación de la realidad (Ellis y Dryden, 1997).[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d]
+[/n]La Terapia Racional Emotiva Conductual (TREC) no ofrece una teoría cerrada sobre cómo se adquieren los problemas psicológicos, pero sostiene que la tendencia biológica al pensamiento irracional está presente en todos los seres humanos. Esta predisposición puede verse potenciada o frenada por el entorno educativo, aunque las experiencias vividas no determinan de manera uniforme la aparición de problemas emocionales.[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d]
+[/n]Por ejemplo, una creencia irracional como *“necesito el amor y la aprobación de todas las personas de mi entorno”* puede desarrollarse tanto en personas que fueron sobreprotegidas como en aquellas que fueron abandonadas. Lo decisivo no es tanto lo que ocurre, sino cómo se interpretan dichas experiencias.[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d
+[/n]Ellis (1979a) plantea tres **Insights** que explican por qué se mantienen los trastornos emocionales:
+* **Insight n.º 1**: Las personas atribuyen su malestar emocional a los acontecimientos, en vez de a las creencias que activan ese malestar.
+* **Insight n.º 2**: Aunque reconocen sus creencias irracionales, no hacen el esfuerzo suficiente para cambiarlas.
+* **Insight n.º 3**: Solo practicando de manera constante en el presente y futuro nuevas creencias racionales se logra un cambio real.[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d
+[/n]Además, la TREC subraya la importancia de mantener una **filosofía de vida basada en la baja tolerancia a la frustración**, que lleva a evitar el esfuerzo o malestar necesario para alcanzar metas significativas. Esto se relaciona con lo que Ellis llama **hedonismo a corto plazo**: buscar alivio inmediato (como no hablar en público) en lugar de bienestar duradero (**hedonismo a largo plazo**).[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d
+[/n]Otra vía explicativa propuesta por la TREC es la reinterpretación de los **mecanismos de defensa freudianos** como formas de mantener creencias irracionales. Por ejemplo, racionalizar, evitar o proyectar el problema puede evitar el malestar inmediato pero también impedir el cambio. Además, la **auto-condenación** (e.g., sentirse inútil por no haber superado un problema) refuerza las propias creencias irracionales y perpetúa el malestar.[/n]
+
+[/d]3.7. Adquisición y mantenimiento de las alteraciones psicológicas[/d
+[/n]Finalmente, la TREC enumera varias razones por las que las personas mantienen su malestar emocional:[/n]
+* Cambian los acontecimientos, pero no las creencias irracionales.
+* Creen que entender las creencias irracionales es suficiente sin cambiarlas.
+* No trabajan con constancia para identificar y sustituir sus creencias disfuncionales.
+* Siguen actuando según creencias irracionales ya internalizadas.
+* Consideran que cambiar no traerá tanto beneficio como mantener sus hábitos actuales.
+* Se rodean de contextos o conductas que refuerzan las creencias irracionales.
+* Tienen déficit en habilidades sociales, comunicativas o de resolución de problemas.[/n]
+
+[/d]3.8. Mapa conceptual de la Terapia Racional Emotiva Conductual[/d]
+[/n]El mapa conceptual resume los elementos clave que conforman la Terapia Racional Emotiva Conductual (TREC) desarrollada por Albert Ellis. En el centro se sitúa la TREC como enfoque terapéutico que integra influencias de distintas corrientes, incluyendo técnicas conductuales, ideas filosóficas (estoicismo), el psicoanálisis y fundamentos científicos.[/n]
+
+[/d]3.8. Mapa conceptual de la Terapia Racional Emotiva Conductual[/d]
+[/n]Se destacan los siguientes conceptos y relaciones principales:
+La filosofía de vida es la base de la salud mental.
+El modelo ABC (acontecimiento → creencia → consecuencia emocional/conductual) explica el papel de las creencias en el origen del malestar.
+Las creencias irracionales, expresadas en términos de "debería", "tendría que", etc., generan emociones perturbadoras como ansiedad y depresión.
+Se diferencian dos tipos de perturbación emocional:
+Ansiedad del yo (asociada a creencias sobre incompetencia personal)
+Ansiedad perturbadora (asociada a baja tolerancia al malestar)[/n]
+
+[/d]3.8. Mapa conceptual de la Terapia Racional Emotiva Conductual[/d]
+[/n]El mapa también destaca la posibilidad de cambio mediante:
+La elección consciente de nuevas creencias racionales.
+La práctica continua de pensamientos alternativos.
+El desarrollo de una filosofía de vida racional (aceptación, flexibilidad, autodirección, etc.)
+[/n]Finalmente, se ilustran los tres insights que explican por qué se mantienen las alteraciones emocionales y cómo la TREC propone intervenir a través del trabajo con creencias y la modificación de esquemas irracionales.[/n]
+
+[/d]4. El proceso de Terapia Racional Emotiva Conductual[/d]
+[/d]4.1. Fases del proceso[/d]
+[/n]El proceso de intervención en la TREC se divide en cinco fases principales:
+Evaluación psicopatológica
+Evaluación Racional-Emotiva
+Insight Racional-Emotivo
+Aprendizaje de una base de conocimiento racional
+Aprendizaje de una nueva filosofía de vida[/n]
+
+[/d]4.1.1. Evaluación psicopatológica[/d]
+[/n]Esta fase se realiza especialmente en pacientes con sospecha de trastorno emocional clínico. Se hace una exploración psicopatológica completa utilizando criterios diagnósticos como el DSM-IV-R, entrevistas clínicas, cuestionarios, test psicológicos y medidas de autoinforme. En poblaciones clínicas se inicia por aquí; en pacientes sin psicopatología se pasa directamente a la Evaluación Racional-Emotiva.[/n]
+
+[/d]4.1.2. Evaluación Racional-Emotiva[/d]
+[/n]Aquí se clasifican los problemas del paciente en internos o externos y en primarios o secundarios.
+Problemas externos: Dependen de eventos ambientales (e.g., despidos, divorcios).
+Problemas internos: Están relacionados con creencias disfuncionales, como el catastrofismo, la baja tolerancia a la frustración, la auto-descalificación o las exigencias absolutistas.[/n]
+
+[/d]4.1.2. Evaluación Racional-Emotiva[/d]
+[/n]Se analiza si un síntoma (como la fobia social) es primario o es resultado de otro problema más profundo. La intervención comienza en función del orden de importancia y mantenimiento del malestar: a) problemas secundarios, b) problemas primarios y c) problemas externos.[/n]
+
+[/d]4.1.3. Insight Racional-Emotivo[/d]
+[/n]Se explican los principios teóricos de la TREC y los tres insights que permiten el cambio emocional:
+Las situaciones no causan el malestar; lo hacen las creencias activadas.
+Las creencias pueden modificarse si se trabaja en ello.
+El cambio solo ocurre con trabajo constante en el presente y el futuro.
+Este insight ayuda a tomar conciencia de que el cambio depende del propio trabajo interno, no de lo que ocurre externamente ni de experiencias pasadas.[/n]
+
+[/d]4.1.4. Aprender una base de conocimiento racional[/d]
+[/n]Es la fase de intervención activa, donde se enseña al paciente a debatir y refutar creencias irracionales. El objetivo es generar nuevas creencias racionales, fortalecerlas y evitar recaídas. Se fomenta la práctica de pensamientos alternativos saludables.[/n]
+
+[/d]4.1.5. Aprender una nueva filosofía de vida[/d]
+[/n]El objetivo final es consolidar las creencias racionales desarrolladas en fases previas. Además, se busca desarrollar el hábito de detectar y refutar creencias irracionales, especialmente aquellas asociadas con exigencias absolutistas, catastrofismo, descalificación global y baja tolerancia a la frustración.[/n]
+
+[/d]4.2. Estructura de las sesiones[/d]
+[/n]Dryden, DiGiuseppe y Neenan (2003) proponen que las sesiones de la Terapia Racional Emotiva Conductual (TREC) incluyan una serie de pasos organizados para favorecer el cambio emocional. Estos pasos pueden distribuirse de la siguiente manera:[/n]
+
+[/d]4.2. Estructura de las sesiones[/d]
+[/n]Identificar el problema principal que el cliente quiere tratar en la sesión. Este puede coincidir o no con el de la sesión anterior. Es útil elegir un problema activador reciente como punto de partida para debatir y refutar creencias irracionales.
+Definir los objetivos concretos de la sesión, ya sea desde el inicio o en el transcurso de la sesión. Pueden estar enfocados en una creencia específica o en nuevas áreas según necesidad.
+Evaluar el modelo ABC del cliente, es decir, identificar el acontecimiento activador, las creencias asociadas y las consecuencias emocionales o conductuales.
+Debatir creencias irracionales con el objetivo de reemplazarlas por creencias racionales más adaptativas.[/n]
+
+[/d]4.2. Estructura de las sesiones[/d]
+[/n]Revisar tareas entre sesiones, analizando dificultades, avances y aprendizajes derivados de las tareas asignadas previamente.
+Asignar nuevas tareas, ya sea de aplicación práctica o de reflexión.
+Enseñar técnicas adicionales que faciliten la ejecución de las tareas, como reestructuración humorística, identificación de pensamientos automáticos, lecturas, ejercicios conductuales o grabaciones.
+Esta estructura flexible permite adaptar cada sesión a las necesidades del cliente, manteniendo siempre el foco en el cambio de creencias irracionales y la consolidación de un pensamiento racional estable.[/n]
+
+[/d]4.3. Estilo terapéutico y relación con el cliente[/d]
+[/d]4.3.1. Estilo terapéutico[/d]
+[/n]Ellis y otros autores han descrito el estilo terapéutico de la TREC como activo, directivo y participativo. Se destacan los siguientes aspectos:
+Ser activo y directivo: En especial con pacientes resistentes o con alto grado de malestar, el terapeuta debe guiar firmemente el proceso para interrumpir patrones irracionales.
+Ser verbalmente muy activo: El terapeuta formula preguntas y contraargumentos constantemente para estimular la reflexión del paciente.
+Ser didáctico: El terapeuta actúa como un profesor, utiliza ejemplos sencillos y materiales comprensibles para facilitar la comprensión.
+Promover cambios en la filosofía de vida: Se alienta al cliente a adoptar valores racionales que apoyen el bienestar.
+No fomentar la lástima: La empatía debe evitar reforzar creencias irracionales de dependencia o necesidad de aprobación.
+Ser flexible: Combinar firmeza y flexibilidad, evitando exigencias absolutistas y adaptándose al proceso del cliente.[/n]
+
+[/d]4.3.2. Relación con el cliente[/d]
+[/n]La relación terapéutica en la TREC incluye elementos comunes a otros enfoques como empatía, aceptación y autenticidad, pero añade matices importantes:
+Aceptación incondicional: No se trata de aprobar las conductas del cliente, sino de aceptarlo como ser humano valioso independientemente de sus errores. Esto permite desmontar creencias de desvalorización o necesidad de aprobación.
+Empatía racional: Implica no solo comprender, sino también guiar al cliente a través de una filosofía racional que promueva el cambio.
+Ser genuino: Mostrar transparencia emocional y usar autorrevelaciones cuando sea útil para la intervención.
+Tener sentido del humor: Usado con prudencia, ayuda a reducir la rigidez cognitiva y fomentar el pensamiento racional. El humor debe ser respetuoso, nunca ofensivo o ridiculizante.
+Estilo terapéutico informal: Se recomienda un estilo cercano pero no excesivamente relajado. Este estilo ayuda a fomentar una relación igualitaria sin perder el foco en los objetivos terapéuticos.[/n]
+
+[/d]4.4. Principales técnicas de intervención[/d]
+[/n]La Terapia Racional Emotiva Conductual (TREC) se caracteriza por emplear un amplio repertorio de técnicas cognitivas, conductuales y emotivas, que provienen de diversas orientaciones. Aunque es considerada una psicoterapia de corte Cognitivo-Conductual, predomina el eclecticismo técnico, es decir, la combinación flexible de herramientas según las necesidades del cliente. Las técnicas se dividen entre las que se utilizan durante las sesiones y las que se aplican como tareas para casa, y se agrupan en tres categorías: cognitivas, conductuales y emotivas.[/n]
+
+[/d]4.4.1. Técnicas utilizadas en el transcurso de las sesiones[/d]
+[/d]4.4.1.1. Técnicas cognitivas[/d]
+[/d]a) Discusión y debate de creencias[/d]
+[/n]Es una de las técnicas más representativas de la TREC. Se usan tres tipos de argumentos para debatir creencias irracionales:
+Empíricos: ¿hay evidencia objetiva que las respalde?
+Lógicos: ¿la conclusión deriva lógicamente de las premisas?
+Pragmáticos: ¿cuáles son las consecuencias de mantener esa creencia?
+Entre las técnicas específicas destacadas se encuentran:
+Análisis y evaluación lógica: Se analiza la validez de los argumentos utilizados por el cliente.
+Reducción al absurdo: Se exagera la creencia hasta lo absurdo para resaltar su incoherencia.
+Análisis y evaluación empírica: Se pide evidencia concreta que respalde la creencia.
+Contradicción con valores personales: Se contrastan creencias irracionales con otras más valoradas por el cliente.
+Apelar a consecuencias negativas: Se muestran las consecuencias disfuncionales de mantener creencias irracionales.
+Apelar a consecuencias positivas: Se resaltan los beneficios de adoptar creencias racionales.[/n]
+
+[/d]Estilos de discusión utilizados:[/d]
+[/n]La TREC permite al terapeuta escoger el estilo de debate más conveniente. Entre ellos:
+Socrático: Preguntas abiertas para detectar creencias y analizar consecuencias.
+Didáctico: El terapeuta enseña directamente los principios racionales.
+Metafórico: Uso de analogías o historias ilustrativas.
+Humorístico: Utilización de humor para relativizar creencias.
+Teatral: Representación simbólica de creencias irracionales para evidenciar su irracionalidad.[/n]
+
+[/d]b) Entrenamiento en autoinstrucciones[/d]
+[/n]Esta técnica consiste en ayudar al cliente a crear una lista de mensajes racionales breves que puede repetir en situaciones difíciles. Estas autoinstrucciones refuerzan creencias racionales y deben ser simples, específicas y realistas.[/n]
+
+[/d]c) Distracción cognitiva e imaginación[/d]
+[/n]Incluye técnicas como la relajación progresiva de Jacobson o el uso de la imaginación racional para afrontar situaciones difíciles. Se usa para reducir ansiedad y mejorar la tolerancia a la frustración en momentos de alta intensidad emocional. El objetivo es evitar que el cliente actúe bajo el dominio de una emoción desbordada sin haber abordado sus creencias subyacentes.[/n]
+
+[/d]4.4.1.2. Técnicas conductuales[/d]
+[/d]a. Ensayo de conducta[/d]
+[/n]Consiste en representar con el terapeuta situaciones que causan ansiedad, con el objetivo de practicar conductas nuevas y racionales. Es útil para probar respuestas alternativas y preparar al cliente para situaciones reales.[/n]
+
+[/d]b. Inversión del rol racional[/d]
+[/n]El terapeuta representa al cliente y verbaliza sus creencias irracionales. Luego invierte el rol para que el cliente escuche y critique las creencias desde una postura racional.[/n]
+
+[/d]c. Refuerzo y castigo[/d]
+[/n]El refuerzo positivo se usa con precaución para no fomentar necesidad de aprobación externa, aunque sí se entrena al cliente en técnicas de auto-refuerzo y auto-castigo, programando tareas con recompensas o consecuencias.[/n]
+
+[/d]d. Entrenamiento en habilidades sociales[/d]
+[/n]Antes de aplicar este entrenamiento, el cliente debe haber debatido sus creencias irracionales sobre el miedo al rechazo, al ridículo o al fracaso. Posteriormente, se practican habilidades sociales adaptativas para mejorar el funcionamiento interpersonal.[/n]
+
+[/d]e. Entrenamiento en solución de problemas[/d]
+[/n]Se utiliza cuando el cliente presenta dificultades prácticas en su vida cotidiana. Primero se trabaja el contenido emocional irracional relacionado con la situación y, posteriormente, se aplican estrategias como la definición del problema, generación de soluciones, toma de decisiones y evaluación de resultados.[/n]
+
+[/d]4.4.1.3. Técnicas emotivas[/d]
+
+[/d]a. Imaginación Racional Emotiva[/d]
+[/n]Es una de las técnicas emotivas más destacadas de la TREC, originalmente propuesta por Maultsby Jr. (1971). Consiste en pedir al cliente que imagine una situación perturbadora y que intente cambiar la emoción negativa asociada (por ejemplo, angustia o ansiedad) por una más moderada y racional, como frustración o descontento.
+Este cambio emocional va acompañado de una modificación de las creencias irracionales asociadas. Una vez conseguido, el cliente describe los pensamientos racionales que acompañan a su nueva emoción.
+Ejemplo: “Pensé que no era tan grave si me bloqueaba en el examen; si me tranquilizaba, podía contestar bien o, si no era así, nada terrible pasaría y lo intentaría de nuevo”.[/n]
+
+[/d]b. Técnicas humorísticas[/d]
+[/n]Ellis considera que el humor puede ser terapéutico por múltiples razones:
+Reírse de uno mismo facilita la aceptación de fallos personales.
+Favorece el distanciamiento emocional de los problemas.
+Reduce la tendencia a dramatizar.
+Interrumpe pensamientos autodestructivos.
+Elimina patrones rígidos de pensamiento desadaptativo.[/n]
+
+[/d]b. Técnicas humorísticas[/d]
+[/n]Se suelen emplear historias, chistes, parábolas, metáforas, aforismos y canciones que ilustran creencias irracionales o exageradas para facilitar su cuestionamiento desde una postura racional.[/n]
+
+[/d]Resumen: Tabla de técnicas utilizadas durante las sesiones[/d]
+[/n]La Tabla 4 sintetiza las técnicas principales que se utilizan dentro de sesión:
+-Técnicas cognitivas:
+Análisis y evaluación lógica
+Reducción al absurdo
+Evaluación empírica
+Contradicción con valores
+Apelar a consecuencias negativas y positivas
+Autoinstrucciones
+Distracción cognitiva
+-Técnicas conductuales:
+Ensayo de conducta
+Inversión del rol racional
+Refuerzo y castigo
+Entrenamiento en habilidades sociales
+Entrenamiento en solución de problemas
+-Técnicas emotivas:
+Imaginación Racional Emotiva
+Técnicas humorísticas[/n]
+
+[/d]4.4.2. Técnicas que se utilizan en la realización de trabajo para casa[/d]
+
+[/d]4.4.2.1. Técnicas cognitivas[/d]
+
+[/d]a. Autorregistros[/d]
+[/n]Los autorregistros permiten trabajar de forma continua entre sesiones. Se utilizan para identificar las relaciones entre los elementos del modelo ABC:
+A = Acontecimiento activador
+B = Creencia irracional
+C = Consecuencia emocional y/o conductual
+En fases posteriores, se añaden columnas para el cuestionamiento (D), creencia racional alternativa (E) y nueva consecuencia emocional (F). Ejemplo:
+A: Se me cae el café en el mostrador de la cafetería
+B: Qué horror, me están mirando y se ríen de mí
+C: Ansiedad, sensación de ridículo
+D: ¿Por qué sería tan terrible que se estuvieran riendo de mí?
+E: Realmente sería incómodo y desagradable, pero no tan horroroso
+F: Fastidio[/n]
+
+[/d]a. Autorregistros[/d]
+[/n]Otro ejemplo es el formulario de Auto-ayuda RET, donde se pide identificar el evento perturbador, enumerar creencias irracionales activadas, y luego debatirlas para generar creencias alternativas racionales.[/n]
+
+[/d]b. Proselitismo racional[/d]
+[/n]Se solicita al cliente que enseñe a otras personas (amigos o familiares) los principios de la TREC. El objetivo es que al explicar y convencer a otros, el cliente consolide su comprensión y creencias racionales.[/n]
+
+[/d]c. Debatir grabaciones[/d]
+[/n]Se entrega al cliente una grabación de una sesión pasada (propia o ajena) y se le pide que la escuche y analice. Luego debe reproducir en voz alta el pensamiento irracional y refutarlo. Esto entrena la habilidad de aplicar la TREC a situaciones reales.[/n]
+
+[/d]d. Repetición de auto-instrucciones[/d]
+[/n]El cliente memoriza frases racionales o instrucciones específicas para ser repetidas varias veces al día, especialmente en momentos clave. Esta técnica refuerza cognitivamente creencias adaptativas mediante repetición y dramatización, a veces con tono elevado o incluso humorístico.[/n]
+
+[/d]4.4.2.2. Técnicas conductuales[/d]
+
+[/d]a. Tarea de toma de riesgos[/d]
+[/n]Se propone al cliente realizar actividades que impliquen un riesgo percibido de fracaso o malestar emocional, con el objetivo de desafiar sus creencias irracionales. Por ejemplo, pedir un café en una cafetería y aclarar que lo quiere caliente, anticipando que el camarero podría molestarse. La intención es afrontar el temor y comprobar que se puede tolerar la situación.[/n]
+
+[/d]b. Inundación en vivo[/d]
+[/n]Consiste en la exposición directa a estímulos que generan un malestar elevado, manteniéndose en esa situación hasta que el nivel de ansiedad se reduzca. Esta técnica busca demostrar que se puede tolerar el malestar y que las creencias irracionales asociadas (como no poder soportarlo o ser rechazado) son erróneas. Ejemplos incluyen hablar en público o enfrentarse al ridículo.[/n]
+
+[/d]c. Ejercicios de metas fuera de lo corriente[/d]
+[/n]El cliente debe proponerse metas que impliquen alterar hábitos, bien aumentando conductas que realiza poco o disminuyendo conductas habituales no deseadas. Por ejemplo, reducir el consumo de dulces (actividad de alta frecuencia a reducir) o realizar actividades placenteras que normalmente evita.[/n]
+
+[/d]d. Auto-refuerzo y auto-castigo[/d]
+[/n]El cliente se administra a sí mismo refuerzos o castigos previamente acordados con el terapeuta, en función del cumplimiento o no de las tareas concretas establecidas en las sesiones. Esta técnica refuerza la autorregulación y la responsabilidad personal en el proceso de cambio.[/n]
+
+[/d]4.4.2.3. Técnicas emotivas[/d]
+
+[/n]Los que se utilizan con mayor frecuencia son la Imaginación Racional Emotiva (comentada anteriormente), ejercicios de ataque de vergüenza y el uso del sentido del humor.[/n]
+
+[/d]a. Ejercicios de ataque de vergüenza[/d]
+[/n]Están encaminados a proporcionar a la persona la posibilidad de debatir aquellas creencias irracionales que acompañan a la realización de actos que considera como “vergonzosos” (e.g. “es horrible y espantoso hacer el ridículo y que alguien se ría de mí”) y le producen malestar emocional (e.g. ansiedad). Un ejercicio típico de ataque de vergüenza podría ser ir por la calle con una prenda de vestir al revés.[/n]
+
+[/d]b. Uso del sentido del humor[/d]
+[/n]Se suele pedir a los clientes que ejerciten el sentido del humor fuera de las sesiones. Por ejemplo cantar una canción en tono de sátira acentuando alguna de las canciones que han podido ser ensayadas en las sesiones y cuyas letras van encaminadas a ridiculizar creencias irracionales o a ensalzar las racionales, hacer bromas sobre lo absurdo de las creencias irracionales o expresarlas de forma extravagante o exagerada y al ridiculizarlas, poder con mayor facilidad a su eliminación. Todos aquellos procedimientos humorísticos que en el curso de las sesiones le han ayudado a desdramatizar, a reírse con o incluso de sí mismo, se sugiere que el cliente los repita fuera para favorecer el auto-debate de las creencias irracionales.[/n]
+
+[/d]Tabla 5. Principales técnicas para el trabajo entre sesiones[/d]
+[/n]
+-Técnicas cognitivas:
+Autorregistros
+Proselitismo racional
+Debatir grabaciones
+Auto-instrucciones racionales
+Biblioterapia
+-Técnicas conductuales:
+Tarea de toma de riesgos
+Inundación en vivo
+Ejercicios de metas fuera de lo corriente
+Auto-refuerzo y auto-castigo
+-Técnicas emotivas:
+Ejercicios de Ataque de Vergüenza
+Uso del sentido del humor
+[/n]
+
+[/d]5. Aplicaciones, evidencia empírica y estudios de resultados[/d]
+[/n]La Terapia Racional Emotiva Conductual (TREC) ha sido aplicada a prácticamente cualquier tipo de trastorno o problema emocional y conductual en casi todos los ámbitos de la vida de los individuos. Se ha llevado a cabo como procedimiento psicoterapéutico individual o grupal. Ellis y Bernard (1985) describieron ya varias aplicaciones de la TREC. Desde entonces se han escrito numerosos textos que han incorporado nuevas aplicaciones, incluyendo amor, sexo, pareja, celos, toxicomanías, duelos, afrontamiento de enfermedades, coaching, educación escolar, estrés, deporte, relaciones laborales, salud física y mental, entre otros.[/n]
+
+[/d]a. Evidencia empírica sobre la Teoría Racional Emotiva Conductual[/d]
+[/n]Autores como David y Ellis (2010) han recopilado los estudios que han aportado apoyo empírico a la TREC. Las principales conclusiones incluyen:
+El modelo ABC ha sido ampliamente apoyado empíricamente por su importancia en el desarrollo de trastornos emocionales.
+Las creencias irracionales se consideran cogniciones valorativas clave.
+El pensamiento exigente y la baja tolerancia a la frustración se han relacionado con ansiedad y dolor.
+Existe un patrón de creencias irracionales específicas para distintos trastornos.
+Sin embargo, aún no hay consenso sobre si las creencias irracionales son polos opuestos de una misma dimensión, si son múltiples dimensiones, ni si tienen un fundamento biológico claro.[/n]
+
+[/d]b. Evidencia empírica sobre la estrategia de intervención de la TREC[/d]
+[/n]A partir de los años 70 se han realizado más de 500 estudios revisados. La mayoría se basan en tratamientos individuales, tanto en población adulta como infantil. Se destaca:
+La efectividad de la TREC para problemas emocionales moderados y trastornos psicopatológicos serios.
+Mayor eficacia en población subclínica o YAVIS (jóvenes, atractivos, verbales, inteligentes y sensibles).
+Resultados positivos en tratamientos combinados con psicofármacos.
+Aun así, muchos estudios no logran aislar la influencia específica del debate de creencias. No se requiere necesariamente una técnica de modificación de creencias para lograr el cambio emocional.[/n]
+
+[/d]6. Resumen[/d]
+[/n]• Albert Ellis (1913–2007) fue el creador de la Terapia Racional Emotiva Conductual (TREC) y uno de los pioneros de la Terapia Cognitivo Conductual.
+• Reconoció la influencia de filósofos y psicólogos como Epicteto, Marco Aurelio, Russell, Tillich, Heidegger, Adler, Horney, Dunlap, M.C. Jones, Watson y Rayner.
+• La TREC considera al ser humano un organismo complejo, con tendencia a establecer metas y evitar el malestar innecesario.
+• El modelo ABC de Ellis analiza cómo los acontecimientos (A) no provocan emociones por sí solos, sino por la interpretación (B) que hacemos de ellos, lo que genera consecuencias (C).
+• La TREC diferencia entre creencias racionales (flexibles, realistas) e irracionales (absolutistas, disfuncionales).
+[/n]
+
+[/d]6. Resumen[/d]
+[/n]
+• Las creencias racionales son preferencias personales que ayudan al bienestar emocional.
+• Las irracionales son exigencias del tipo "debería" o "tendría que", que generan malestar.
+• Las perturbaciones psicológicas más destacadas por la TREC son la ansiedad del Yo y la ansiedad perturbadora.
+• Las emociones negativas no siempre son disfuncionales. Las "adecuadas" son proporcionales y ayudan al afrontamiento.
+• Ellis propuso una filosofía de vida basada en valores racionales y no dogmáticos.
+• El proceso terapéutico de la TREC incluye cinco fases: evaluación psicopatológica, evaluación racional-emotiva, insight racional, aprendizaje de conocimiento racional y nueva filosofía de vida.
+• El estilo del terapeuta TREC debe ser activo, didáctico, empático, con sentido del humor y capacidad de confrontación.
+• La TREC utiliza una variedad de técnicas: cognitivas, conductuales y emotivas, todas con el fin de eliminar creencias irracionales y fomentar una vida emocionalmente saludable.
+[/n]

@@ -1,0 +1,504 @@
+[/d]Técnicas de modelado 
+y entrenamiento en 
+habilidades sociales[/d]
+
+
+[/d]Palabras clave[/d]
+[/n]• Modelado
+• Aprendizaje vicario u observacional
+• Modelo
+• Observador
+• Imitación
+• Habilidades sociales
+• Competencias sociales
+• Comportamiento incompetente[/n]
+
+[/d]Objetivos[/d]
+[/n]Este capítulo ha sido escrito con el objetivo de que el lector o lectora…
+• Comprenda las bases teóricas del modelado
+• Conozca e identifique los procesos, funciones, fases de procedimiento y tipos de modelado así como los ámbitos de aplicación
+• Conozca los modelos de adquisición y explicativos de las habilidades sociales
+• Identifique los tipos de habilidades sociales
+• Conozca los procedimientos del entrenamiento, así como las modalidades y ámbitos de aplicación.[/n]
+
+[/d]1. Introducción[/d]
+[/n]El constructo de competencia social ha tenido una influencia e impacto inigualable en el contexto del ajuste psicológico y la salud mental. De hecho el interés sobre este constructo y las habilidades con las que se relaciona se encuentran en la base de los desarrollos teóricos de finales de la década de los 60 y durante los 70, que dieron lugar a los cambios conceptuales que sirvieron de asiento para el surgimiento de la segunda generación de la Terapia de Conducta. Las primeras definiciones de competencia social lo situaban como una competencia general que abarcaba toda la capacidad del del individuo para adaptarse a su entorno, siendo el concepto base de la Terapia de Solución de Problemas Sociales que desarrollaron Goldfried y D’Zurilla (1969). Además, paralelamente, en esta época se estaba produciendo el surgimiento del modelo de aprendizaje social mediante condicionamiento vicario (Bandura, 1969; Bandura y Walters, 1963) que retó los modelos de psicopatología de la época (elemento común a la Terapia de Solución de Problemas Sociales) e influyeron en los desarrollos terapéuticos de la segunda generación, estableciendo las bases para la fundación de los modernos entrenamientos en habilidades sociales. El modelo de aprendizaje social no sólo sentó las bases conceptuales para el desarrollo de las intervenciones dirigidas al entrenamiento en habilidades sociales y la promoción de la competencia social, sino que de él se derivaron técnicas esenciales dentro de estos programas de entrenamiento, es el caso de las técnicas de modelado.[/n]
+
+
+[/d]2. Técnicas de Modelado[/d]
+
+[/d]2.1. Fundamentos teóricos[/d]
+
+[/d]2.1.1. Marco conceptual[/d]
+[/n]Las técnicas de modelado parten de los principios teóricos del aprendizaje observacional o vicario desarrollados por Bandura. La relevancia de la imitación en los procesos de aprendizaje ya había sido destacada por Miller y Dollard (1941). Estos autores consideraban la imitación como un caso especial de condicionamiento instrumental. Asumen que el modelo actuaría como un estímulo discriminativo cuya conducta produce un indicio al que el observador responde imitando; si esta respuesta se recompensa, incrementa su frecuencia y puede generalizarse a otros modelos y conductas. En este sentido, como señalan Bandura y Walters (1963), la imitación es para Miller y Dollard una experiencia de aprendizaje directo que requiere tanto la reproducción de la respuesta del modelo como el reforzamiento de esa respuesta.[/n]
+
+[/d]2.1.1. Marco conceptual[/d]
+[/n]Como se vio en el Capítulo 3, el aprendizaje operante asume que la adquisición de nuevas conductas se lleva a cabo mediante un proceso de moldeamiento y/o encadenamiento de conductas que están en el repertorio del individuo y que, de alguna manera, se asemejan o son un componente de la conducta meta. Bandura y Walters (1963) señalan que estas teorías no dan cuenta suficientemente de la adquisición del comportamiento ya que:
+- No explica la aparición de conductas totalmente nuevas.
+- Encuentran dificultades para explicar la adquisición de segmentos largos y complejos de conducta sin apelar a procesos lentos y graduales de condicionamiento que, de ser el único procedimiento de aprendizaje, limitaría enormemente el número de conductas aprendidas.
+- No explican cómo un número muy elevado de conductas ocurren y se adquieren sin ser directamente reforzadas.
+- A veces, la aparición de estas nuevas conductas se produce días o meses después del proceso de condicionamiento.[/n]
+
+[/d]2.1.1. Marco conceptual[/d]
+[/n]Bandura (1969) formula el aprendizaje observacional o vicario cuyo supuesto fundamental es que una gran cantidad de conductas se aprenden, mantienen y extinguen mediante la observación, aunque el observador no haya dado respuesta imitativa alguna en el momento, y por tanto, no sea reforzado por ello. El aprendizaje vicario sostiene que el observador puede aprender tanto conductas operantes como respondientes. Cuando un observador aprende la conducta de un modelo, aprende también sus consecuencias. Bandura define el refuerzo vicario como un cambio en la conducta de los observadores que está en función de la observación de las consecuencias que acompañan la ejecución ajena. Carrasco y Avia (1988), señalan algunos de los efectos más relevantes del reforzamiento, extinción y castigo vicario. Tres de los más importantes son:
+1. Función discriminativa o informativa de los estímulos presentados al modelo, que ofrecen información a los observadores de las contingencias de refuerzo probables asociadas con conductas similares en situaciones parecidas.
+2. Efectos de incremento de estímulo (la función de dirigir la atención del refuerzo vicario permite a los observadores identificar más fácilmente las situaciones en las que la conducta modelada se considera apropiada y “reforzable”). Confirma, en definitiva, la función informativa del refuerzo, pero insistiendo aquí no en las respuestas reforzadas, sino en las situaciones ambientales en las que es apropiado realizar una conducta.
+3. Efectos incentivo-motivacionales: la anticipación del refuerzo tiene una misión motivacional con efectos de incremento o reducción de la conducta según la forma de los resultados anticipados.[/n]
+
+[/d]2.1.2. Procesos implicados en el aprendizaje observacional[/d]
+[/n]Según Bandura (1988) en el aprendizaje observacional están implicados cuatro procesos básicos: a) atención, b) retención, c) reproducción y d) motivación. Cuando no se produce la imitación del observador de la conducta del modelo puede deberse a un fallo en la observación de las actividades relevantes, una codificación inadecuada de las conductas modeladas para su representación en la memoria, problemas de retención, deficiencias motoras o un reforzamiento inadecuado.[/n]
+
+[/d]Atención[/d]
+[/n]Para que se pueda llevar a cabo el aprendizaje vicario es necesario que el observador atienda los aspectos relevantes de la conducta del modelo. En este proceso atencional influyen varios factores. Uno de ellos es la relevancia para el observador de la conducta que se desea modelar. Si la conducta no es de interés o no es lo suficientemente importante para el observador, no prestará la atención necesaria que requiere el proceso de aprendizaje. La valencia afectiva es otro de los factores que influyen en el proceso atencional. Aquellas conductas que despiertan emociones positivas o negativas se atienden mejor que las conductas que no despiertan ninguna emoción particular. Otra influencia destacable en el proceso atencional es la complejidad de la conducta a la que ha de atender el observador. Puesto que a mayor complejidad, mayor dificultad, para mantener la atención sobre la conducta a observar es necesario que su nivel de complejidad esté de acuerdo a la competencia, conocimientos y capacidades del observador. Finalmente, se señala el valor funcional de la conducta en la que se presta atención como variable notable en el aprendizaje observacional.[/n]
+
+[/d]Retención[/d]
+[/n]Para que se produzca el aprendizaje vicario de la conducta del modelo es necesario que el observador tenga capacidad de codificar simbólicamente —representar verbalmente y mediante imágenes— la información relevante para la adquisición y posterior ejecución. La representación verbal y en la imaginación se ha de complementar con la práctica cognitiva y motora de la conducta del modelo para que el proceso de retención se lleve a cabo correctamente. Por ejemplo, aprender a manejar un ordenador, además de prestar atención a cómo lo hace el modelo, requiere retener y recordar en la imaginación los pasos más relevantes que va realizando, así como las instrucciones que va verbalizando. Esta representación mental y recordatorio verbal no es suficiente para retener la información si no se practican en la imaginación y conductualmente.[/n]
+
+[/d]Reproducción[/d]
+[/n]Al igual que en el proceso de retención, para que se lleve a cabo la reproducción de la conducta a modelar, es necesario que el observador tenga la capacidad de atender, retener, almacenar, recuperar, y fundamentalmente reproducir la información relevante de la conducta a realizar. Es importante igualmente obtener feedback externo de cómo va realizando la conducta modelada.[/n]
+
+[/d]Motivación[/d]
+[/n]Para que se lleve a cabo el aprendizaje observacional no basta con que el observador atienda, retenga y pueda reproducir la conducta del modelo. Es necesario también que esté motivado para ejecutar la conducta aprendida. Esta motivación puede derivarse de múltiples fuentes, tales como:
+Refuerzos directos, cuando el individuo recibe consecuencias positivas inmediatas al imitar la conducta.
+Refuerzos vicarios, cuando observa que otro (el modelo) recibe una consecuencia positiva al realizar la conducta, y se incrementa la probabilidad de imitación.
+Autorrefuerzos , cuando el individuo se impone metas internas o normas de conducta cuyo cumplimiento genera satisfacción personal.
+Estos factores motivacionales influyen directamente en la probabilidad de que la conducta observada se reproduzca en el futuro. Así, no toda conducta observada, retenida y comprendida necesariamente se ejecutará, a menos que exista una motivación suficiente para hacerlo.[/n]
+
+[/d]Figura 1. Procesos implicados en el aprendizaje observacional y factores que influyen en cada uno[/d]
+[/n]La figura resume los cuatro procesos clave del aprendizaje observacional junto a sus factores influyentes:
+-Procesos Atencionales:
+Saliencia, Valencia Afectiva, Complejidad
+Prevalencia
+Valor funcional
+Procesos de Retención:
+Codificación simbólica
+Observación cognitiva
+Práctica cognitiva
+Práctica conductual
+-Procesos de Producción:
+Representación cognitiva
+Observación de actuación
+Feedback
+Reproducción de las reglas
+-Procesos de Motivación:
+Refuerzos directos
+Refuerzos vicarios
+Autorrefuerzo [/n]
+
+
+[/d]2.2. Funciones del modelado[/d]
+[/n]El modelado cumple distintas funciones en la implantación y desarrollo del comportamiento. Las cinco más importantes son las siguientes:
+Aprender nuevas conductas. La observación de un modelo permite aprender repertorios de conductas, habilidades sociales, cognitivas y motoras, estrategias de afrontamiento de situaciones difíciles o conflictivas, creencias, opiniones, etc. Algunos ejemplos claros que todos conocemos serían la adquisición del lenguaje en los niños al oír hablar a los adultos, aprender a bailar, tocar un instrumento, etc.[/n]
+
+[/d]2.2. Funciones del modelado[/d]
+[/n]Promover e inhibir la realización de conductas en función de las consecuencias para el modelo. Por ejemplo, se puede promover acercarse a tocar un animal al que se está evitando al ver que lo toca otra persona y no ocurre ninguna consecuencia negativa. Igualmente, se puede inhibir la conducta de pegar a otros niños cuando se observa a uno que cuando pega a otro es reprendido por ello.
+Incitar conductas. Servir de detonante para iniciar o llevar a cabo una conducta o acción. Por ejemplo, aplaudir en un teatro cuando comienzan a hacerlo otras personas, ver a una persona ponerse el abrigo y tomarlo como indicio de que también tiene que marcharse…[/n]
+
+[/d]2.2. Funciones del modelado[/d]
+[/n]Motivar. Observando la realización de una conducta por parte de un modelo así como sus consecuencias puede favorecer el interés del observador por llevar a cabo la misma conducta. Por ejemplo: apuntarse a un gimnasio al ver a un amigo adelgazar por hacer ejercicio o ver el éxito de los deportistas y querer aprender a jugar al fútbol.
+Modificar la valencia emocional. Por ejemplo, estar triste y reírse al ver hacerlo a los actores de una película o reducir el miedo cuando se ve a otra persona que no lo tiene al recibir una inyección.[/n]
+
+[/d]2.3. Factores que influyen en el modelado[/d]
+[/n]Existen numerosos factores relacionados con las características del modelo que pueden influir en el aprendizaje observacional. Algunos de ellos son los siguientes:
+Similaridad con el observador, dependiendo de la conducta o acciones a modelar, en aspectos tales como el sexo, la edad, competencia del modelo, etc.
+Valor afectivo para el observador. Cuanto mayor sea el valor afectivo del modelo, mayor será la influencia de la conducta a modelar en el observador.
+Prestigio. En el caso de aprendizaje de conductas que requieren competencias específicas —como habilidades deportivas o conocimientos académicos— es más efectivo que el modelo genere admiración o un valor de estatus. No obstante, si este estatus está muy alejado del observador, podría dificultarse la identificación por percibir el comportamiento como inalcanzable.[/n]
+
+[/d]2.3. Factores que influyen en el modelado[/d]
+[/n]Eficacia al realizar la conducta pero no tan excesiva que al observador le resulte difícil alcanzar el mismo nivel de competencia o habilidad.
+Igualmente, entre las numerosas características del observador que pueden influir en el modelado cabe resaltar como más relevantes:
+Capacidades cognitivas y atencionales no deterioradas.
+Nivel de ansiedad que no interfiera en la capacidad de atención y retención de lo que está observando en el modelo.
+Nivel de competencia y habilidades que permitan iniciar o incrementar la conducta que se desea aprender o imitar. Por ejemplo, no se puede imitar y realizar la conducta de un modelo si esta implica una habilidad que el observador aún no posee o no puede ejecutar.[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]El proceso de modelado implica tres fases secuenciales: 1) exposición y observación, 2) adquisición, y 3) aceptación/ejecución/imitación.
+Exposición. El primer paso en cualquier entrenamiento en modelado es la observación de la conducta, acciones u opiniones del modelo, ya sea real o simbólico.
+Adquisición. Esta fase busca asegurar que el observador adquiera la conducta del modelo. Para ello, es clave que el observador preste atención, retenga la conducta o secuencia de conductas que el modelo está realizando, y que sea capaz de reproducirlas después.
+Aceptación/ejecución. Es la fase en la que el observador pone en práctica las conductas observadas. Es importante entender que observar y adquirir conductas no garantiza que estas se ejecuten posteriormente ni que se realicen como se espera. Esto depende de factores como la influencia del modelo. Según Spiegler y Guevremont (2010), existen diferentes formas de ejecución observacional:[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]- Imitación específica: el observador realiza exactamente la misma conducta del modelo. Ejemplo: usar un paraguas al salir, como lo hizo el modelo al llover.
+- Imitación general: el observador realiza una conducta con el mismo propósito, pero de forma distinta. Ejemplo: en lugar de un paraguas, usa una capucha para protegerse de la lluvia.
+- Contra-imitación específica: el observador actúa de forma contraria a la conducta observada. Ejemplo: si el modelo quita un juguete a un niño y lo empuja, el observador prefiere no hacerlo.
+- Contra-imitación general: el observador también actúa diferente, pero sin copiar literalmente ni en dirección la conducta del modelo, aunque con el mismo objetivo. Ejemplo: ofrecer amablemente su juguete en lugar de quitarlo.[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]Figura 2. Las tres fases del aprendizaje observacional: Esta figura representa gráficamente las tres fases del modelado: 1) Exposición, 2) Adquisición y 3) Ejecución/Imitación, junto con los tipos de respuesta que pueden surgir en la tercera fase: imitación específica, imitación general, contraimitación específica y contraimitación general.[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]La adquisición de conductas de imitación específicas ocurre con mayor frecuencia cuando se da reforzamiento vicario, mientras que el castigo vicario tiende a promover respuestas de contraimitación. En los trastornos de ansiedad, el miedo suele mantenerse por la anticipación de consecuencias negativas (como acercarse a un perro y ser mordido) o por deficiencias en habilidades sociales (como no saber hablar en público adecuadamente). El modelado puede actuar sobre ambas condiciones al mostrar que ciertas conductas no desencadenan consecuencias negativas, proceso conocido como extinción vicaria.[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]Cuando el objetivo del modelado es reducir déficits de habilidades o enseñar conductas nuevas, se pueden emplear dos tipos de modelo: modelo mastery y modelo coping. El modelo coping muestra cómo afrontar situaciones difíciles, evidenciando inicialmente inseguridad o temor, pero logrando superar el reto con el tiempo. Este tipo de modelo es útil en casos de ansiedad. En cambio, el modelo mastery representa a un experto que actúa con competencia desde el inicio, mostrando destreza sin aparentes dificultades.[/n]
+
+[/d]2.4. Fases del modelado[/d]
+[/n]Ambos tipos de modelos pueden ser efectivos. El modelo mastery puede ser más pertinente cuando se desea ampliar repertorios de habilidades específicas (como hablar en público, respetar normas o resolver conflictos), mientras que el modelo coping es ideal cuando las conductas deseadas están relacionadas con superar miedos o inseguridades.[/n]
+
+[/d]2.5. Tipos de modelado[/d]
+[/n]Existen diferentes tipos de modelado y formas de llevarlo a cabo.
+Modelado en vivo. La exposición al objeto temido, actividad o conducta a aprender se lleva a cabo por el modelo o modelos en presencia del observador.
+Modelado simbólico. El modelo se presenta en soportes como medios audiovisuales, escritos, imaginación o transmisión mediática. Películas, libros, noticias o testimonios modelan conductas y sus consecuencias. Una modalidad importante es el modelado encubierto, en el que el observador imagina escenas del modelo realizando la conducta. Por ejemplo, un niño puede imaginar cómo actúa su héroe (Superman, Spiderman) o un personaje de sus dibujos animados enfrentando una situación temida, siguiendo el guion del terapeuta.[/n]
+
+[/d]2.5. Tipos de modelado[/d]
+[/n]Modelado pasivo. El observador ve y aprende sin participar, y luego ejecuta la conducta observada sin ayuda del modelo o terapeuta. Puede darse mediante modelado simbólico o en vivo.
+Modelado participante. El observador atiende y luego ejecuta la conducta con ayuda del modelo, combinando modelado, ensayo de conducta, facilitadores verbales o físicos y desensibilización. Es útil en tratamiento de ansiedad o falta de habilidades, y puede realizarse de forma individual o grupal. También es conocido como desensibilización por contacto o participación guiada.
+Los pasos del modelado participante son:
+1. Exposición y actuación del modelo ante un estímulo aversivo (ej., tocar un animal que teme el observador).
+2. Instigación, ensayo de conducta, modelado y desensibilización en vivo. El terapeuta actúa como modelo, guía verbal y físicamente al observador para realizar la conducta. Se acerca con el observador al estímulo temido, lo apoya físicamente si es necesario y refuerza verbalmente sus logros. Esta combinación de guía y exposición reduce la ansiedad.
+3. Retirada progresiva de los instigadores. El terapeuta disminuye su ayuda gradualmente mientras el observador realiza la conducta por sí mismo.[/n]
+
+[/d]2.5. Tipos de modelado[/d]
+[/n]Un ejemplo común en contexto clínico es enseñar a montar bicicleta. El terapeuta primero la monta, luego invita al niño a subir, da instrucciones verbales y físicas, y reduce su asistencia a medida que el niño gana seguridad y autonomía.
+Según Cruzado (2001), factores que influyen en la eficacia del modelado participante incluyen la extinción vicaria, cuando se observan consecuencias no temidas, y la adquisición de conocimientos y habilidades, que aumentan la autoeficacia. Otro factor clave es la reducción o habituación de los niveles de ansiedad ante situaciones que generan temor.
+En general, cuando se entrena en modelado, se establece una jerarquía de situaciones con dificultad creciente para el observador.[/n]
+
+[/d]2.5. Tipos de modelado[/d]
+[/n]Auto-modelado. El observador visualiza grabaciones de sí mismo realizando correctamente la conducta (por ejemplo, una técnica de relajación) para luego imitarla en casa. Esta técnica es útil en habilidades sociales, relajación o entrenamiento deportivo. Se graba al observador ejecutando adecuadamente la conducta con apoyo del terapeuta, y se utiliza el video como modelo para repetir y practicar.
+Modelado de autoinstrucciones. Se expone al observador a un modelo que realiza una conducta mientras verbaliza los pasos en voz alta. Estas autoinstrucciones pueden ayudar a planificar, ejecutar y regular la conducta. Ejemplo: “Voy a comenzar a realizar el examen, siéntate tranquilo, respira, tengo que ir despacio y leer bien las preguntas”. El observador puede repetirlas o crear las suyas propias, como: “aunque me esté saliendo mal, soy un crack”. Esta técnica ha sido desarrollada por Meichenbaum y se aplica al modelado autoinstruccional.[/n]
+
+[/d]2.6. Ámbitos de aplicación y estudios de resultados[/d]
+[/n]Generalmente, los procedimientos de modelado se combinan con otras técnicas de intervención, como exposición, ensayo de conducta, técnicas de relajación, solución de problemas, habilidades de afrontamiento y reestructuración cognitiva. Aunque puede utilizarse de forma aislada, es común integrarlo dentro de paquetes terapéuticos completos en la psicología clínica.[/n]
+
+[/d]2.6. Ámbitos de aplicación y estudios de resultados[/d]
+[/n]Numerosos estudios de casos y de comparación de tratamientos respaldan la eficacia del modelado para abordar distintos trastornos. Según Cruzado (2001), Olivares y Méndez (1999) y Spiegler y Guevremont (2010), el modelado se ha utilizado con éxito para tratar fobias (a animales, tratamiento dental, hablar en público), miedos médicos y quirúrgicos, miedo al agua, alturas, y agorafobia. Los estudios citan trabajos de autores como Klingman, Fernández y Secades, Ortigosa y Méndez, entre otros.[/n]
+
+[/d]2.6. Ámbitos de aplicación y estudios de resultados[/d]
+[/n]Otros estudios han demostrado su efectividad en diversos tipos de modelado (in vivo, participante, simbólico, sin ayuda del terapeuta, etc.). Por ejemplo, el modelado filmado y la desensibilización en vivo también muestran eficacia. Algunos autores señalan que el modelado participante es especialmente efectivo cuando se integra en un paquete de tratamiento con componentes como exposición y ensayo de conducta. Bandura también destacó la importancia del modelado en el aprendizaje por observación, como en el caso del miedo observado hacia estímulos específicos.[/n]
+
+[/d]2.7. Mapa conceptual de las técnicas de modelado[/d]
+[/n]El mapa conceptual presenta de forma esquemática los elementos esenciales del modelado, incluyendo sus tipos, procesos, funciones, fases, objetivos y factores que influyen en su eficacia. Se basa en el enfoque de Bandura y está centrado en cómo el modelado permite el aprendizaje de conductas a través de la observación.[/n]
+
+[/d]2.7. Mapa conceptual de las técnicas de modelado[/d]
+[/n]Tipos de modelado: in vivo, simbólico, pasivo, participante, auto-modelado y autoinstrucciones.
+Procesos implicados: observación, reproducción, atención y motivación.
+Funciones: aprender nuevas conductas, promover o inhibir conductas, incitar conductas, motivar, y modificar la valencia emocional.
+Fases: exposición, adquisición, y ejecución/aceptación/imitación.
+Objetivo: reducir déficits y adquirir nuevas conductas.
+Factores: características del modelo y del observador, además de los procesos cognitivos involucrados.
+Tipos de ejecución: imitación específica, general, contra-imitación específica y general.
+Consecuencias observadas: reforzamiento vicario, extinción vicaria y castigo vicario.[/n]
+
+[/d]3. Entrenamiento en habilidades sociales[/d]
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]El Entrenamiento en Habilidades Sociales (EHS) es un tratamiento cognitivo-conductual que se aplica con un conjunto de técnicas cuyo objetivo es mejorar la calidad de las relaciones interpersonales, de comunicación y relacionales (Segrin, 2009).[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]El déficit en habilidades sociales se asocia con numerosos problemas emocionales y de desadaptación. Existen estudios que demuestran su relación con aislamiento social, fracaso escolar, delincuencia en la infancia y adolescencia, así como con aislamiento, depresión, ansiedad y dificultades en relaciones íntimas en adultos. La falta de competencia social puede ser el núcleo de múltiples trastornos psicológicos.[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]El EHS se ha convertido en un procedimiento ampliamente utilizado en contextos laborales, educativos, familiares, sanitarios y sociales, pues se reconoce que la carencia de habilidades sociales afecta múltiples áreas de la vida cotidiana.[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]Sus orígenes se vinculan a trabajos de los años 30 (e.g., Koch, 1934; Murphy y Newcomb, 193; Page, 1936; Williams, 1937), los cuales identificaron cómo ciertos aspectos sociales influyen en la conducta infantil. Ejemplos incluyen la búsqueda de aprobación, la responsabilidad, la simpatía y el comportamiento socialmente adecuado o inadecuado.[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]A partir de los años 50, el EHS se desarrolló como un procedimiento de intervención vinculado a la Terapia de Conducta. En 1949, Salter publica su "Terapia de reflejos condicionados", basada en una concepción pavloviana de excitación-inhibición, sugiriendo que las personas con problemas sociales podrían tener procesos inhibitorios que afectan su expresión emocional.[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]Para contrarrestar esto, propone técnicas de role-playing que potencian habilidades sociales como expresión facial, contacto visual, emisión de opiniones, y manejo de conflictos. También introduce la Psicoterapia por inhibición recíproca y el término asertividad como clave en el manejo de la ansiedad social y la expresión emocional adecuada.[/n]
+
+[/d]3.1. Fundamentos teóricos[/d]
+[/n]Durante los años 60 y 70, la asertividad se convirtió en sinónimo de habilidades sociales y se difundió ampliamente en manuales y literatura divulgativa. Sin embargo, algunos autores señalan que no todas las habilidades sociales pueden ser consideradas asertivas, por lo que se requiere una evaluación más detallada.[/n]
+
+[/d]3.1.1. Modelos de adquisición de las habilidades sociales[/d]
+[/n]Kelly (1988) indica que desde la teoría del aprendizaje social, las habilidades sociales son conductas aprendidas, y existen diversos mecanismos que explican su adquisición y mantenimiento. Estos mecanismos son: reforzamiento directo, aprendizaje vicario u observacional, retroalimentación interpersonal y expectativas cognitivas frente a situaciones interpersonales.[/n]
+
+[/d]3.1.1. Modelos de adquisición de las habilidades sociales[/d]
+[/n]Reforzamiento positivo: Las conductas sociales se aprenden y mantienen por las consecuencias reforzantes que generan. En la infancia, las conductas que obtienen resultados positivos se aprenden con rapidez. Por ejemplo, balbucear o imitar acciones genera respuestas afectivas y atencionales. Más adelante, las conductas verbales o complejas que reciben consecuencias positivas se consolidan y pasan a formar parte del repertorio social del adulto.[/n]
+
+[/d]3.1.1. Modelos de adquisición de las habilidades sociales[/d]
+[/n]Experiencias de aprendizaje vicario u observacional: Según Bandura, observar a un modelo realizar una conducta y las consecuencias que esta produce puede ser suficiente para adquirir habilidades. El observador pasa por procesos de atención, retención, reproducción y reforzamiento. Según Kelly (1987), los efectos posibles son:
+El observador adquiere una nueva conducta que antes no emitía.
+La exposición al modelo hace que emita una conducta con más frecuencia.
+Disminuye la emisión de una conducta que era frecuente (efecto inhibitorio).
+Esto convierte al aprendizaje observacional en una técnica esencial del entrenamiento en habilidades sociales.[/n]
+
+[/d]3.1.1. Modelos de adquisición de las habilidades sociales[/d]
+[/n]Retroalimentación interpersonal: Es la información que una persona recibe del entorno social respecto a su conducta. Puede ser positiva (refuerza aspectos conductuales o cognitivos) o negativa (debilita conductas). Por ejemplo, si alguien dice “me gusta mucho que me escuches”, esta conducta será reforzada. En cambio, si se percibe agresividad, la respuesta podría ser: “a mí no me vuelvas a hablar así”, lo que inhibe la conducta. Este tipo de retroalimentación, al ser contingente, se considera una forma de reforzamiento social valiosa en el entrenamiento en habilidades sociales.[/n]
+
+[/d]3.1.1. Modelos de adquisición de las habilidades sociales[/d]
+[/n]Desarrollo de las expectativas cognitivas con respecto a las situaciones interpersonales: Estas expectativas son predicciones sobre la probabilidad de tener éxito en una situación. Rotter (1954) indica que las personas actúan según la expectativa de obtener buenos resultados. Así, si una persona se siente capaz de hablar con éxito, es más probable que lo intente. De lo contrario, evitará la situación. Bandura (1987) agrega que las expectativas de autoeficacia también influyen: si se cree capaz, es más probable que se enfrente a la situación con éxito.[/n]
+
+[/d]3.1.2. Modelos explicativos del comportamiento incompetente[/d]
+[/n]Para explicar por qué algunas personas no manifiestan conductas socialmente adecuadas o eficaces, se han propuesto varios modelos. A continuación, se presentan los principales según Bellak y Morrison (1982):
+Modelo de déficit de conductas: Este modelo plantea que la incompetencia social se origina por una carencia de conductas adecuadas en el repertorio del individuo, derivada de una socialización deficiente o falta de experiencias sociales. Es común en personas provenientes de familias desestructuradas o con escasos recursos económicos. Por ejemplo, una persona que no sabe cómo dirigirse a un cliente o que reitera preguntas en público puede haber carecido de oportunidades para aprender conductas apropiadas de interacción.[/n]
+
+[/d]3.1.2. Modelos explicativos del comportamiento incompetente[/d]
+[/n]Modelo de ansiedad condicionada: Aquí, la causa del fracaso social radica en que ciertos estímulos sociales generan ansiedad condicionada. Un ejemplo sería alguien que evita situaciones de conflicto o no responde asertivamente debido al malestar que le producen, prefiriendo complacer al interlocutor antes que enfrentar el intercambio.[/n]
+
+[/d]3.1.2. Modelos explicativos del comportamiento incompetente[/d]
+[/n]Modelo de discriminación errónea: Este modelo sugiere que el fracaso social se debe a interpretaciones incorrectas de señales sociales. Un ejemplo típico son las personas llamadas “pesadas”, que no perciben señales de desinterés (como mirar el reloj) y continúan hablando sin darse cuenta de que su interlocutor desea terminar la conversación.[/n]
+
+[/d]3.1.2. Modelos explicativos del comportamiento incompetente[/d]
+[/n]Modelo de déficit cognitivo evaluativo: Explica el fracaso social por una inhibición de respuestas eficaces debido a evaluaciones erróneas y autoverbalizaciones negativas. Las personas con baja autoestima, por ejemplo, pueden decirse “soy tonto” o “no sé qué decir”, bloqueando su actuación y disminuyendo su competencia social.[/n]
+
+
+[/d]3.1.2. Modelos explicativos del comportamiento incompetente[/d]
+[/n]Modelo interactivo: Este modelo considera la competencia social como el resultado de una cadena de procesos cognitivos y conductuales. Inicia con una correcta percepción de estímulos sociales, seguida por su procesamiento flexible, la evaluación de posibles respuestas y la ejecución de la mejor alternativa. Este modelo integra aspectos de los anteriores y propone potenciar los procesos implicados en la conducta socialmente hábil.
+En general, estos modelos no son excluyentes y pueden interactuar entre sí. El fracaso en la competencia social puede deberse a elementos combinados de varios de ellos.[/n]
+
+[/d]3.2. Tipos de habilidades sociales[/d]
+[/n]Las habilidades sociales abarcan un amplio rango de competencias que pueden agruparse en diferentes categorías. Algunas de ellas son:
+Habilidades no verbales (expresión facial, contacto ocular, posturas, etc.)
+Habilidades básicas de conversación
+Habilidades de comunicación
+Habilidades emocionales
+Habilidades de autoprotección
+Habilidades para solución de problemas
+Habilidades para aproximación-evitación en relaciones íntimas y logro de objetivos vitales
+
+[/d]3.2. Tipos de habilidades sociales[/d]
+[/n]Otra forma de clasificar las habilidades trabajadas en el Entrenamiento en Habilidades Sociales es según habilidades conductuales, cognitivas y fisiológicas:
+a. Habilidades conductuales: Se refieren a las conductas visibles implicadas en las interacciones sociales. Se clasifican en:
+No verbales: mirada, sonrisa, orientación corporal.
+Paralingüísticas: tono, volumen, tiempo y velocidad del habla.
+Verbales: contenido del discurso, peticiones, acuerdos.
+Mixtas: elección de palabras, pausas, momentos oportunos, etc.[/n]
+
+[/d]3.2. Tipos de habilidades sociales[/d]
+[/n]b. Habilidades cognitivas: Involucran los procesos mentales que permiten construir respuestas socialmente habilidosas. Incluyen:
+Percepciones sobre ambientes de comunicación: La capacidad de percibir y adaptarse a diferentes contextos sociales (familiares, formales, cálidos, etc.).
+Variables cognitivas del individuo:
+Competencias cognitivas: conocer normas sociales, señales de respuesta, ponerse en lugar del otro, resolver problemas.
+Estrategias de codificación y constructos personales: percepción de la realidad social, creencias y estereotipos.
+Expectativas: creencias sobre consecuencias de la conducta, como expectativas de resultado, relaciones estímulo-resultado, etc.
+Valores subjetivos de los estímulos: preferencias personales ante determinadas situaciones.
+Planes y sistemas de autorregulación: permiten planificar y ajustar la conducta social.[/n]
+
+[/d]3.2. Tipos de habilidades sociales[/d]
+[/n]c. Cambios fisiológicos: Se refieren a respuestas corporales durante interacciones sociales. Ejemplos: ritmo cardíaco, presión arterial, flujo sanguíneo, respuestas electrodérmicas, respiración y actividad electromiográfica.[/n]
+
+[/d]3.2. Tipos de habilidades sociales[/d]
+[/n]Habilidades concretas entrenadas: Dependiendo del déficit del individuo, los programas de entrenamiento pueden trabajar habilidades como:[/n]
+Iniciar y mantener conversaciones
+Hablar en público
+Expresar amor, afecto y agrado
+Defender derechos personales
+Pedir y rechazar favores
+Hacer y aceptar cumplidos
+Expresar opiniones, incluso en desacuerdo
+Justificar molestias o desacuerdos
+Disculparse o admitir errores
+Solicitar cambios de conducta en otros
+Afrontar críticas[/n]
+
+[/d]3.3. Proceso de entrenamiento en habilidades sociales[/d]
+[/n]Alberti y Emmons (1978) señalan que al comenzar un programa de entrenamiento en habilidades sociales es importante asegurarse de que:
+El cliente comprenda los principios básicos de la conducta socialmente apropiada.
+Se encuentre preparado para llevar a cabo el programa de entrenamiento.
+Los intentos del cliente de llevar a cabo la conducta apropiada, aunque sean precarios, sean reforzados.
+Se valoren suficientemente los posibles cambios que pueden producirse en el entorno al aplicar la nueva conducta aprendida.
+
+[/d]3.3. Proceso de entrenamiento en habilidades sociales[/d]
+[/n]Según Caballo (1997, 2010), un Entrenamiento en Habilidades Sociales efectivo debe abordar los siguientes aspectos:
+Entrenamiento en habilidades propiamente dicho: Enseñar y practicar conductas específicas que se integren en el repertorio del individuo.
+Reducción de la ansiedad: Enfrentar situaciones sociales que generan ansiedad. Se puede emplear relajación o desensibilización sistemática para reducir la ansiedad y permitir el aprendizaje de nuevas conductas adaptativas.
+Reestructuración cognitiva: Cambiar creencias, pensamientos o actitudes negativas que interfieren en la conducta social, mediante técnicas como autoinstrucciones, entrenamiento en autoverbalización y análisis de creencias.
+Entrenamiento en solución de problemas: Enseñar al individuo a identificar situaciones sociales relevantes, generar posibles respuestas, evaluar consecuencias y seleccionar las conductas más adecuadas para lograr sus objetivos.[/n]
+
+[/d]3.3.1. Evaluación y selección de las habilidades sociales[/d]
+[/n]El Entrenamiento en Habilidades Sociales (EHS), al igual que otras intervenciones cognitivo-conductuales, requiere una evaluación rigurosa. Esta se lleva a cabo mediante la combinación de varios procedimientos.
+Entrevista: Constituye el primer paso de la evaluación. Permite observar características de la conducta social del sujeto e identificar déficits, tanto a nivel general como específico. Al tratarse de una situación de interacción, se valoran aspectos como el contacto visual, postura, tono y volumen de voz, fluidez del discurso, entre otros.
+Instrumentos de autoinforme: Son uno de los métodos más utilizados por su eficacia y costo-beneficio. Evalúan múltiples dimensiones a través de cuestionarios y escalas estandarizadas. Se agrupan en:[/n]
+
+[/d]3.3.1. Evaluación y selección de las habilidades sociales[/d]
+[/n]Medidas de habilidad social: Evalúan frecuencia, malestar y capacidad para expresar conductas sociales. Ejemplo: Inventario de Asertividad de Rathus, Inventario de Aserción (AI), SPSS, Multidimensional de Expresión Social (Caballo, 1997).
+Medidas de ansiedad social: Evalúan ansiedad en situaciones sociales. Ejemplo: Escala de Ansiedad y Evitación Social (SAD), Escala de Ansiedad de Interacción y de Hablar en Público (IAAS).
+Medidas de las cogniciones: Evalúan temor a evaluaciones sociales negativas y pensamientos automáticos. Ejemplo: Cuestionario de Miedo a la Evaluación Negativa (FNE), Test de Autoverbalizaciones Asertivas (ASST).[/n]
+
+[/d]3.3.1. Evaluación y selección de las habilidades sociales[/d]
+[/n]Informes de otras personas: Familiares, pareja o amigos pueden aportar información valiosa sobre el comportamiento social inadecuado del paciente. Es útil formular preguntas específicas y centradas en conductas observables para recoger datos relevantes.
+Autoobservación y registro: Permite que el paciente tome conciencia de su conducta social. Se delimita una conducta y se registra su aparición diaria junto con variables asociadas (nivel de ansiedad, pensamientos, reacciones de los demás, dificultad). Este registro puede organizarse en una tabla semanal que permite analizar patrones.
+
+[/d]3.3.1. Evaluación y selección de las habilidades sociales[/d]
+[/n]Observación: Se realiza en dos tipos de situaciones:
+Situaciones naturales: Realizadas por personas del entorno (e.g., cuidadores, profesores).
+Situaciones artificiales: Simulan interacciones reales, utilizando pruebas estructuradas.
+a. Prueba estructurada de interacción breve: El evaluador presenta una situación ficticia para observar la respuesta del paciente. Por ejemplo: pedir un permiso a un jefe simulando una conversación laboral.[/n]
+
+[/d]3.3.1. Evaluación y selección de las habilidades sociales[/d]
+[/n]b. Prueba semiestructurada de interacción extensa: El paciente conoce el objetivo de la tarea y actúa “como si” estuviera en una situación real. Se realiza mediante role-playing grabado en video, con papeles asignados para representar una escena cotidiana. Por ejemplo: intervenir en una conversación de descanso laboral entre compañeros.
+Una vez completada la evaluación, se procede al entrenamiento, el cual puede iniciarse por etapas o simultáneamente según las necesidades del paciente.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]El EHS emplea múltiples técnicas según las necesidades de cada caso, pero casi todos los programas incluyen cinco componentes básicos: justificación e instrucciones, modelado, ensayo de conducta, feedback y reforzamiento. Además, se incluyen técnicas para generalizar las habilidades a contextos distintos a los entrenados.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Justificación e instrucciones: Antes de iniciar el entrenamiento, se explica la importancia de las habilidades a desarrollar, su utilidad, y cómo se llevarán a cabo. Esta fase incluye lectura de materiales, manuales, discusiones en grupo y ejemplos prácticos. Las instrucciones deben ser claras, específicas y acompañadas de demostraciones concretas que faciliten la atención y retención del observador.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Modelado: Consiste en mostrar cómo se realiza la habilidad. Es útil para personas que requieren ver el comportamiento antes de intentarlo. Puede ser en vivo o simbólico (videos, grabaciones). Se destaca la importancia de la repetición, similitud entre modelo y observador, competencia del modelo, reforzamiento recibido por el modelo y la complejidad de la conducta a modelar.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Ensayo conductual: Permite al cliente practicar las conductas en un entorno controlado. Se utiliza role-playing, inicialmente con guía del terapeuta, y luego en grupo. El objetivo es facilitar la retención de las habilidades a través de la repetición, el refuerzo y la retroalimentación directa.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Feedback o retroalimentación: Es fundamental después del ensayo conductual. Puede ser positivo, correctivo, descriptivo o auto-revelador. Debe enfocarse en aspectos observables, concretos y evitar centrarse en la persona. Se recomienda no trabajar más de 3-4 conductas por sesión y fomentar la participación del cliente al comentar los feedback recibidos.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Reforzamiento: Utilizar estímulos positivos (verbales, sociales, materiales) tras la ejecución de conductas deseadas ayuda a fortalecerlas. Se puede aplicar durante el aprendizaje o después para mantener las habilidades a largo plazo.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Otros componentes:
+Tareas para casa: Se programan para practicar fuera del entorno terapéutico. Se deben adaptar al nivel del paciente y aumentar progresivamente la dificultad.
+Estrategias de generalización: Buscan que las conductas se mantengan y se apliquen en otros contextos, situaciones y con otras personas.[/n]
+
+[/d]3.3.2. Procedimiento de intervención en el entrenamiento en habilidades sociales[/d]
+[/n]Tabla 1. Componentes básicos del entrenamiento en habilidades sociales:
+Esta tabla resume los cinco componentes clave del EHS y las técnicas específicas que se pueden usar en cada uno:[/n]
+Justificación e instrucciones: instrucciones verbales, lecturas, grabaciones, autoinstrucciones.
+Modelado: modelado en vivo, simbólico, participante.
+Ensayo conductual: ensayo real, inversión de roles, práctica dirigida, desensibilización mediante ensayo, representación de otros roles.
+Feedback: verbal y mediante audiovisuales.
+Reforzamiento: refuerzo externo, autorrefuerzo.
+Otros componentes: tareas para casa, estrategias de generalización (uso de técnicas como relajación, solución de problemas, autoevaluación, etc.).
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]La aplicación del Entrenamiento en Habilidades Sociales (EHS) puede realizarse tanto de forma individual como grupal. En ambos formatos se aplican los mismos componentes básicos, pero existen diferencias importantes que deben tenerse en cuenta.[/n]
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]Formato individual:
+Este formato permite una evaluación más detallada y continua de las técnicas aplicadas, así como de los avances y logros parciales del paciente durante el proceso terapéutico. Es posible adaptar el contenido según el progreso, lo que permite atender con mayor precisión las dificultades específicas que vayan surgiendo.[/n]
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]Formato grupal:
+En este formato, el grupo se convierte en un espacio de práctica social. Los participantes representan papeles, interactúan entre sí y reciben retroalimentación. El hecho de compartir un contexto común con otros miembros facilita el aprendizaje y crea un entorno de apoyo.[/n]
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]Para optimizar el aprendizaje en grupos, se recomienda que:[/n]
+Los déficits sociales de los miembros sean similares.
+Exista un nivel comparable de funcionamiento y una respuesta homogénea al tratamiento.[/n]
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]La orientación de los grupos puede variar:[/n]
+Grupos orientados a ejercicios: Se centran en la práctica mediante representaciones de roles.
+Grupos orientados hacia los temas: Cada sesión se dedica a una temática específica, que luego se trabaja con ejercicios prácticos.[/n]
+
+[/d]3.4. Modalidades de aplicación[/d]
+[/n]También se diferencian según el nivel de estructuración:[/n]
+Grupos semiestructurados: Incorporan ejercicios de representación junto con técnicas complementarias (como clarificación de valores o trabajo con padres).
+No estructurados: Las actividades dependen de las necesidades detectadas en cada sesión.[/n]
+
+[/d]3.5. Ámbito de aplicación y estudios de resultados[/d]
+[/n]El Entrenamiento en Habilidades Sociales (EHS) ha trascendido el ámbito de la psicoterapia, siendo utilizado en diversos contextos donde las relaciones sociales son relevantes, como el ámbito educativo, laboral y la salud física y mental.[/n]
+
+[/d]3.5. Ámbito de aplicación y estudios de resultados[/d]
+[/n]En el ámbito de la salud mental y la psicología clínica, existen múltiples investigaciones y estudios controlados que demuestran su eficacia para abordar una gran variedad de problemas. Por ejemplo, ha mostrado efectividad en casos de alcoholismo y abuso de sustancias (Eriksen, Björnstad, Götestam, 1986; Monti y O’Leary, 1999), bullying (DeRosier, 2004), depresión (Bellack, Hersen y Himmelhoch, 1981, 1983), esquizofrenia (Benton, Schroeder, 1990; Granholm, McQuaid, McClure, 2004), y ansiedad (Link, Perivoliotis et al., 2007; Kurtz y Mueser, 2008).[/n]
+
+[/d]3.5. Ámbito de aplicación y estudios de resultados[/d]
+[/n]También ha sido aplicado en casos de problemas de pareja, dificultades para establecer relaciones íntimas (Cuevas y Perona, 1994; Fernández y cols., 1999; González, 1990; Graña, 1991; Santacreu, 1991), ludopatía (Sharpe, 1997) y programas de reinserción social (Bagüena y Belaña, 1993; Ortiz, 1992).[/n]
+
+[/d]3.6. Mapa conceptual del Entrenamiento en Habilidades Sociales[/d]
+[/n]Este mapa conceptual representa de forma esquemática los elementos clave del Entrenamiento en Habilidades Sociales (EHS), abordando sus fundamentos, componentes, causas del déficit y procesos implicados en su desarrollo.[/n]
+
+[/d]3.6. Mapa conceptual del Entrenamiento en Habilidades Sociales[/d
+[/n]El EHS parte de la idea de que las habilidades sociales incluyen competencias como la asertividad, comunicación y competencia social, y pueden fallar por diversas razones: déficit de conductas, ansiedad condicionada, discriminación errónea o evaluación cognitiva inadecuada. Estas fuentes del fracaso pueden tener componentes conductuales, cognitivos y fisiológicos.[/n]
+
+[/d]3.6. Mapa conceptual del Entrenamiento en Habilidades Sociales[/d
+[/n]Las habilidades sociales son un conjunto de comportamientos interpersonales complejos organizados según el nivel de complejidad (mínimo, intermedio, superior). Se adquieren y mantienen mediante reforzamiento positivo, aprendizaje vicario y expectativas cognitivas.[/n]
+
+[/d]3.6. Mapa conceptual del Entrenamiento en Habilidades Sociales[/d
+[/n]Para desarrollarlas, el EHS incluye:[/n]
+Elementos esenciales
+Evaluación
+Etapas
+Procedimiento específico
+Modalidades (individual o grupal)[/n]
+
+[/d]3.6. Mapa conceptual del Entrenamiento en Habilidades Sociales[/d
+[/n]Además, el entrenamiento busca enseñar habilidades, reducir ansiedad, desarrollar estrategias cognitivas, enseñar solución de problemas, y utilizar procedimientos como modelado, retroalimentación, reforzamiento e instrucciones, asegurando también la generalización de los aprendizajes.[/n]
+
+[/d]4. Resumen[/d]
+
+[/d]Modelado[/d]
+[/n]Las técnicas de modelado se basan en el aprendizaje observacional o vicario según la teoría de Bandura. El observador puede aprender al ver a un modelo ejecutar una conducta y observar las consecuencias que recibe (reforzamiento vicario, castigo vicario o extinción vicaria). Este aprendizaje no necesita exposición directa; puede darse también mediante comunicación simbólica (imaginación, medios escritos o audiovisuales).[/n]
+
+[/d]4. Resumen[/d]
+[/n]El aprendizaje observacional implica cuatro procesos básicos:
+a) atención,
+b) retención,
+c) reproducción y
+d) motivación.[/n]
+
+[/d]4. Resumen[/d]
+[/n]El modelado cumple funciones como:
+Aprender nuevas conductas,
+Promover o inhibir conductas según consecuencias,
+Incitar conductas,
+Motivar, y
+Modificar la valencia emocional.[/n]
+
+[/d]4. Resumen[/d]
+[/n]Consta de tres fases: exposición y observación, adquisición, y aceptación/ejecución/imitación.
+Se identifican cuatro tipos de ejecución tras la observación:
+Imitación específica
+Imitación general
+Contraimitación específica
+Contraimitación general[/n]
+
+[/d]4. Resumen[/d]
+[/n]Las características del modelo influyen en el aprendizaje:
+Similitud con el observador
+Valor afectivo
+Prestigio
+Nivel de competencia[/n]
+
+[/d]4. Resumen[/d]
+[/n]Existen dos tipos de modelo:
+Mastery (experto sin errores)
+Coping (modelo que muestra dificultades y luego supera la situación)[/n]
+
+[/d]4. Resumen[/d]
+[/n]Las modalidades del modelado son: in vivo, simbólico, pasivo, participante, auto-modelado y modelado con autoinstrucciones.[/n]
+
+[/d]Habilidades sociales[/d]
+[/n]El Entrenamiento en Habilidades Sociales (EHS) es una intervención cognitivo-conductual que mejora la calidad de las relaciones interpersonales. Estas habilidades comprenden competencias diversas agrupadas por categorías.[/n]
+
+[/d]Habilidades sociales[/d]
+[/n]Desde la teoría del aprendizaje social, se entiende que las habilidades sociales se aprenden mediante:[/n]
+Reforzamiento directo
+Aprendizaje vicario
+Retroalimentación interpersonal
+Expectativas cognitivas sobre situaciones interpersonales[/n]
+
+[/d]Habilidades sociales[/d]
+[/n]Se han identificado cinco modelos que explican la falta de habilidades sociales:[/n]
+Modelo de déficit de conductas
+Modelo de ansiedad condicionada
+Modelo de discriminación errónea
+Modelo de déficit cognitivo evaluativo
+Modelo interactivo[/n]
+
+[/d]Habilidades sociales[/d]
+[/n]La evaluación de estas habilidades incluye:
+Entrevistas
+Cuestionarios de autoinforme
+Informes de terceros
+Autoobservación y registro
+Observación externa[/n]
+
+[/d]Habilidades sociales[/d]
+[/n]Los programas de EHS se basan en cinco componentes principales:
+Justificación e instrucciones
+Modelado
+Ensayo de conducta
+Feedback
+Reforzamiento
+El EHS se aplica tanto en contextos clínicos como educativos, laborales y de salud física y mental.[/n]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
