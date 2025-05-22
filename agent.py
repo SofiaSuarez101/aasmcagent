@@ -206,6 +206,10 @@ class SecurityMiddleware(BaseHTTPMiddleware):
                 )
 
             token_jwt = auth.replace("Bearer ", "")
+            if JWT_SECRET is None:
+                return JSONResponse(
+                    status_code=500, content={"error": "JWT_SECRET no está configurado en el entorno."}
+                )
             try:
                 jwt.decode(token_jwt, JWT_SECRET, algorithms=[JWT_ALGORITHM])
             except JWTError:
