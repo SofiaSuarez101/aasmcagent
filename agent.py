@@ -38,20 +38,8 @@ embeddings = NomicEmbeddings(model="nomic-embed-text-v1.5")
 import fitz  # PyMuPDF
 
 pdf_paths = [
-    r"1.txt",
-    r"2.txt",
-    r"3.txt",
-    r"4.txt",
-    r"5.txt",
-    r"6.txt",
-    r"7.txt",
-    r"8.txt",
-    r"9.txt",
-    r"10.txt",
-    r"11.txt",
-    r"12.txt",
-    r"13.txt",
-    r"14.txt",
+    r"1.pdf",
+    r"3.pdf",
 ]
 
 
