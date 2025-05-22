@@ -152,8 +152,7 @@ prompt = ChatPromptTemplate.from_messages(
             """
             ),
         ),
-        ("user", "{input}"),
-        MessagesPlaceholder(variable_name="agent_scratchpad"),
+        ("user", "{input}")
     ]
 )
 
@@ -185,37 +184,24 @@ class SecurityMiddleware(BaseHTTPMiddleware):
         request_timestamps.setdefault(ip, [])
         request_timestamps[ip] = [t for t in request_timestamps[ip] if now - t < 60]
         if len(request_timestamps[ip]) >= 5:
-            return JSONResponse(
-                status_code=429,
-                content={"error": "Demasiadas solicitudes. Intente más tarde."},
-            )
+            return JSONResponse(status_code=429, content={"error": "Demasiadas solicitudes. Intente más tarde."})
 
         request_timestamps[ip].append(now)
 
         # Protección de /consultar
         if request.url.path == "/consultar":
             if request.headers.get("x-api-key") != API_KEY:
-                return JSONResponse(
-                    status_code=401, content={"error": "API Key inválida."}
-                )
+                return JSONResponse(status_code=401, content={"error": "API Key inválida."})
 
             auth = request.headers.get("Authorization", "")
             if not auth.startswith("Bearer "):
-                return JSONResponse(
-                    status_code=401, content={"error": "Token JWT faltante o inválido."}
-                )
+                return JSONResponse(status_code=401, content={"error": "Token JWT faltante o inválido."})
 
             token_jwt = auth.replace("Bearer ", "")
-            if JWT_SECRET is None:
-                return JSONResponse(
-                    status_code=500, content={"error": "JWT_SECRET no está configurado en el entorno."}
-                )
             try:
                 jwt.decode(token_jwt, JWT_SECRET, algorithms=[JWT_ALGORITHM])
             except JWTError:
-                return JSONResponse(
-                    status_code=403, content={"error": "Token JWT inválido o expirado."}
-                )
+                return JSONResponse(status_code=403, content={"error": "Token JWT inválido o expirado."})
 
         return await call_next(request)
 
