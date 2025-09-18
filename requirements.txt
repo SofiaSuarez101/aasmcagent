@@ -1,0 +1,21 @@
+# Core web framework
+fastapi
+uvicorn
+python-dotenv
+python-jose
+pydantic
+
+# OpenAI + Azure OpenAI (Python SDK) and Agents SDK
+openai
+openai-agents
+
+# RAG stack: vector store + embeddings + utils
+chromadb
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-nomic
+langchain-openai
+nomic
+PyMuPDF
+requests
